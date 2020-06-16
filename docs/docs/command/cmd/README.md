@@ -1,0 +1,16 @@
+# cmd
+
+* [About Wifi](about-wifi.md)
+* [Chcp](chcp.md)
+* [Clip](clip.md)
+* [Fuck](fuck.md)
+* [Gcc](gcc.md)
+* [Javap](javap.md)
+* [Netstat](netstat.md)
+* [Ping](ping.md)
+* [Set](set.md)
+* [Shutdown](shutdown.md)
+* [Taskkill](taskkill.md)
+* [Wireshark](wireshark.md)
+* [Wmic](wmic.md)
+* [Wsl](wsl.md)

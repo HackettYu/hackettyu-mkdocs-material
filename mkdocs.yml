@@ -7,9 +7,9 @@ site_description: >-
 # Repository
 repo_name: hackettyu/mkdocs-material
 repo_url: https://github.com/hackettyu/mkdocs-material
-edit_uri: ""
+edit_uri: "https://github.com/HackettYu/mkdocs-material/blob/master/docs"
 
-# Copyright
+# Copyrighpro
 copyright: Copyright &copy; 2018 - 2020
 
 # Configuration
@@ -23,17 +23,17 @@ theme:
 
   # Don't include MkDocs' JavaScript
   include_search_page: false
-  search_index_only: false
+  search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
   language: zh
   features:
     - tabs
-    - instant
+    - instant: true
   palette:
-    scheme: default
+    scheme: preference
     primary: white
-    accent: white
+    accent: indigo
   font:
     text: Noto Sans SC
     code: Fira Code
@@ -53,7 +53,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/hackettyu
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/hackettyu
+      link: https://twitter.com/
+    - icon: fontawesome/brands/spotify
+      link: spotify:user:12glou9s4691jdz6arkbb8zmn
 
 # Extensions
 markdown_extensions:
@@ -73,11 +75,9 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:materialx.emoji.twemoji
-  #     emoji_generator: !!python/name:materialx.emoji.to_svg
-  # - pymdownx.highlight:
-  #     linenums_style: pymdownx-inline
+  - pymdownx.emoji
+  - pymdownx.highlight:
+      linenums_style: pymdownx-inline
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink:

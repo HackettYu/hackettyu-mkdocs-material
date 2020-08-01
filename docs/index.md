@@ -43,21 +43,25 @@
 ===! "Book List"
     **2020**
 
-    - [x] [[香港第一课 ]][[January 1st, 2020]]
-    - [x] [[编程珠玑-续]] [[February 2nd, 2020]]
-    - [x] [[Effective Java 中文版第二版]] [[February 12th, 2020]]
-    - [x] [[数据密集型应用系统设计]] [[February 15th, 2020]]
-    - [x] [[奈飞文化手册]] [[February 20th, 2020]]
-    - [x] [[只是为了好玩]] [[April 10th, 2020]]
-    - [ ] [[大教堂与集市]] [[March 1st, 2020]]
-    - [ ] [[永久档案]] [[May 1st, 2020]]
-    - [ ] [[SICP Python 实现]]
-    - [x] 原子习惯 [[April 16th, 2020]]
-    - [ ] [[SRE: Google 运维解密]] [[May 1st, 2020]]
-    - [ ] [[混乱的猴子]] [[May 10th, 2020]]
-    - [ ] [[Pro-Git]] 
+    - [x] 香港第一课                   January 1st, 2020
+    - [x] 编程珠玑-续                  February 2nd, 2020
+    - [x] Effective Java 中文版第二版  February 12th, 2020
+    - [x] 数据密集型应用系统设计        February 15th, 2020
+    - [x] 奈飞文化手册                 February 20th, 2020
+    - [x] 只是为了好玩                 April 10th, 2020
+    - [ ] 大教堂与集市                 March 1st, 2020
+    - [ ] 永久档案                     May 1st, 2020
+    - [ ] SICP Python 实现
+    - [x] 原子习惯                     April 16th, 2020
+    - [ ] SRE: Google 运维解密         May 1st, 2020
+    - [ ] 混乱的猴子                   May 10th, 2020
+    - [ ] Pro-Git
+    - [X] 子弹笔记                     2020-06-18
+    - [ ] 数据库系统内幕
+    - [ ] Cpython internal
+    - [ ] 软件设计的哲学
 
-=== "Just List"
+===! "Just List"
 
     ```diff
     + 黑客与画家
@@ -75,4 +79,13 @@
     + 陶哲轩教你学数学
     + 共同的底线
     + 日本色气
+    + RUST 权威指南
+    + 数据库系统内幕
+    ```
+
+===! "English"
+
+    ```diff
+    + Software Engineering at Google: Lessons Learned from Programming Over Time
+    + Chaos Engineering
     ```

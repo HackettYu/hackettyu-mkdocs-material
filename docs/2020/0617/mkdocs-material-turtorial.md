@@ -348,6 +348,41 @@ class Program {
     - [ ] item 3
     ```
 
+
+### 启用 Admonitionn
+
+```yaml
+markdown_extensions:
+  - admontion
+```
+
+用法
+
+```markdown
+!!! note
+    this is a note
+```
+
+效果
+
+!!! note
+    this is a note
+
+Support Types:
+
+- [X] Note
+- [X] Abstract
+- [X] Info
+- [X] Tip
+- [X] Success
+- [X] Question
+- [X] Warning
+- [X] Failure
+- [X] Danger
+- [X] Bug
+- [X] Example
+- [X] Quote
+
 ## 引用
 
 - [MkDocs Project documentation with Markdown](https://www.mkdocs.org/)

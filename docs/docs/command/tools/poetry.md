@@ -42,7 +42,7 @@ poetry insatll
 poetry config --list
 
 # 内置安装
-poetry virtualenvs.in-project = true
+poetry config virtualenvs.in-project true
 ```
 
 ```conf

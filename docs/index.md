@@ -9,15 +9,12 @@
 + [2020-06-16]:[add material-mkdocs]
 ```
 
-
 === "Wine List"
     - 苦精酒
     - Absinth
-
     - 威士忌
         - 百灵坛
         - 波本
-
     - 君度力娇酒
     - 马天尼
     - 三得利威士
@@ -27,7 +24,6 @@
         - 单桶
     - 单一麦芽
         - 乐加维林
-
     - 卡比利特
 
 === "Coffee List"
@@ -35,10 +31,8 @@
     - 牙买加蓝山一号
     - 瑰夏
 
-
 === "Beer List"
     - 树屋
-
 
 ===! "Book List"
     **2020**
@@ -90,4 +84,5 @@
     + Software Engineering at Google: Lessons Learned from Programming Over Time
     + Chaos Engineering
     + The New Hacker's Dictionary
+    + Remote
     ```

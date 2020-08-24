@@ -1,20 +1,20 @@
-> VIA: https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP_zh.md
+> VIA: https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP_zh
 > Translated from [English original on 14.11.2019](https://github.com/SAP/styleguides/tree/72ecf7fd7d41151d5bbca29020d4ec9de953db8c).
-> Latest version [in English](CleanABAP.md).
+> Latest version [in English](CleanABAP).
 
 # ABAP 整洁之道
 
-> [**中文**](CleanABAP_zh.md)
+> [**中文**](CleanABAP_zh)
 > &nbsp;·&nbsp;
-> [English](CleanABAP.md)
+> [English](CleanABAP)
 > &nbsp;·&nbsp;
-> [Français](CleanABAP_fr.md)
+> [Français](CleanABAP_fr)
 > &nbsp;·&nbsp;
-> [Deutsch](CleanABAP_de.md)
+> [Deutsch](CleanABAP_de)
 
 本指南针对 [ABAP](https://zh.wikipedia.org/wiki/ABAP) 改编自 [Robert C. Martin 所著的 _Clean Code_]。
 
-[速查表](cheat-sheet/CheatSheet.md)为打印优化版本。
+[速查表](cheat-sheet/CheatSheet)为打印优化版本。
 
 [Robert C. Martin 所著的 _Clean Code_]: https://www.oreilly.com/library/view/clean-code/9780136083238/
 
@@ -305,7 +305,7 @@ ABAP 测试主控室、代码分析器、扩展检查和检查管理器提供了
 
 您尽可以讨论文本讲述的任何内容并表示异议。整洁代码的支柱之一是_团队规则_。在您放弃异议之前，一定要给它们一个公平的机会。
 
-[CONTRIBUTING.md](../CONTRIBUTING.md) 就如何变通本指南或在小的细节上另辟蹊径，给出了建议。
+[CONTRIBUTING](../CONTRIBUTING) 就如何变通本指南或在小的细节上另辟蹊径，给出了建议。
 
 ## 名称
 
@@ -491,7 +491,7 @@ METHOD add_two_numbers.
 ENDMETHOD.
 ```
 
-> [Avoid Encodings](sub-sections/AvoidEncodings.md) > 深入介绍了这样做的理由。
+> [Avoid Encodings](sub-sections/AvoidEncodings) > 深入介绍了这样做的理由。
 
 ## 语言
 
@@ -532,7 +532,7 @@ FUNCTION check_business_partner [...].
 ENDFUNCTION.
 ```
 
-> [Function Groups vs. Classes](sub-sections/FunctionGroupsVsClasses.md) > 详细描述了两者的差异。
+> [Function Groups vs. Classes](sub-sections/FunctionGroupsVsClasses) > 详细描述了两者的差异。
 
 ### 函数式语言结构优于过程式语言结构
 
@@ -669,7 +669,7 @@ INTERFACE /dirty/common_constants.
 ENDINTERFACE.
 ```
 
-> [Enumerations](sub-sections/Enumerations.md) > 描述了常见的枚举模式> 并讨论了它们的优缺点。
+> [Enumerations](sub-sections/Enumerations) > 描述了常见的枚举模式> 并讨论了它们的优缺点。
 > 
 > 更多信息参阅 [Robert C. Martin 所著的 _Clean Code_] 中的 _Chapter 17: Smells and Heuristics: J3: Constants versus Enums_。
 
@@ -1418,7 +1418,7 @@ ENDMETHOD.
 
 莫因这条规则而丧失在恰当之处使用继承的信心。有一些应用场合很适合使用继承，例如，[Composite design pattern](https://en.wikipedia.org/wiki/Composite_pattern)。只需中肯地问问自己，在所处情况下，继承是否确实利大于弊。如有怀疑，一般来说，选择组合更稳妥。
 
-> [Interfaces vs. abstract classes](sub-sections/InterfacesVsAbstractClasses.md) 对此做了一些详细比较。
+> [Interfaces vs. abstract classes](sub-sections/InterfacesVsAbstractClasses) 对此做了一些详细比较。
 
 #### 勿在同一个类中混用有态和无态
 
@@ -1852,7 +1852,7 @@ METHOD /clean/blog_post~publish.
 
 在面向整洁对象的方法中，公开没有接口的方法没有多大意义，枚举类等少数方法除外，这些方法永远不会有备选实施，也永远不会在测试用例中进行模拟。
 
-> [接口与抽象类](sub-sections/InterfacesVsAbstractClasses.md)描述了为什么这也适用于覆盖继承方法的类。
+> [接口与抽象类](sub-sections/InterfacesVsAbstractClasses)描述了为什么这也适用于覆盖继承方法的类。
 
 ### 参数数目
 
@@ -2802,7 +2802,7 @@ METHODS read_file
 
 这种异常类型_必须_在方法签名中给出，并且_必须_被捕获或转发以避免语法错误。这样，用户便能够清楚看到这种异常类型，确保其不会因意外的异常而感到惊讶，并负责对错误情况做出反应。
 
-> 这与 [ABAP Programming Guidelines](https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-US/abenexception_category_guidl.htm) 一致，但与 [Robert C. Martin 所著的 _Clean Code_]（其中建议优先使用不可控异常）相矛盾；[异常](sub-sections/Exceptions.md)说明了其中的原因。
+> 这与 [ABAP Programming Guidelines](https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-US/abenexception_category_guidl.htm) 一致，但与 [Robert C. Martin 所著的 _Clean Code_]（其中建议优先使用不可控异常）相矛盾；[异常](sub-sections/Exceptions)说明了其中的原因。
 
 #### 针对通常不可恢复的情况抛出 CX_NO_CHECK
 
@@ -3254,7 +3254,7 @@ DATA:
 
 按照团队的协商设置_缩进_和_转换大写/小写_ > _大写关键字_。
 
-> [大写字母与小写字母](sub-sections/UpperVsLowerCase.md)解释了为什么我们没有为关键字的大小写提供明确的指导。
+> [大写字母与小写字母](sub-sections/UpperVsLowerCase)解释了为什么我们没有为关键字的大小写提供明确的指导。
 更多信息参阅 [Robert C. Martin 所著的 _Clean Code_] 中的 _Chapter 5: Formatting: Team Rules_。
 
 ### 每行只有一条语句

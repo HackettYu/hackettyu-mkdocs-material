@@ -1,0 +1,23 @@
+- {{kanban}}
+    - Article
+        - [ ] [[傅里叶变换]] [[May 24th, 2020]]
+        - [ ] [[Beancount]] [[May 24th, 2020]]
+    - API
+        - [GraphQL API v4](https://developer.github.com/v4/)
+    - Documents
+        - [ ] [[JSBox]] [[May 24th, 2020]]
+        - [ ] [[AnyProxy]] [[May 24th, 2020]]
+        - [ ] [[GNU通用公共许可协议]] [[May 24th, 2020]]
+        - [ ] [[overleaf]] [[May 24th, 2020]]
+        - [ ] [[OCG]] [[May 24th, 2020]]
+    - Ebooks
+        - [ ] [[如何成为一名黑客]] [[May 24th, 2020]]
+        - [ ] [[SQL Indexing and Tuning e-Book]] [[May 24th, 2020]]
+        - [ ] [[Git飞行规则]] [[May 24th, 2020]]
+    - Github
+        - [ ] [[Pydub]] [[May 24th, 2020]]
+        - [ ] [[USBCopye]] [[May 24th, 2020]]
+        - [ ] [[IntelliJ-IDEA]] [[May 24th, 2020]]
+        - [ ] [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+- 
+- 

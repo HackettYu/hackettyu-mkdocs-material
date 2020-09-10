@@ -64,3 +64,11 @@
 
 - [奇洛先生｜Kiiro Cafe 's Medium](https://medium.com/@kiirosir)
 - [手工咖啡：咖啡爱好者的完美冲煮指南](https://www.amazon.cn/dp/B07Z4YZYT4)
+
+
+Type	Brew Ration	时间	特点
+Espresso	1:2	22-30s	balanced flavours
+Ristretto	1:1	15s	strong, full bodied
+Lungo	1:3	27s	thinner, delicate
+
+https://zhuanlan.zhihu.com/p/48217272

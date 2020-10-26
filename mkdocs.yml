@@ -2,7 +2,7 @@
 site_name: hackettyu'blog
 site_url: https://hackettyu.com
 site_author: hackettyu
-site_description: >-
+site_description:
   hackettyu.com
 # Repository
 repo_name: hackettyu/mkdocs-material
@@ -30,6 +30,7 @@ theme:
   features:
     - tabs
     - instant: true
+    - search.highlight
   palette:
     scheme: preference
     primary: white
@@ -46,6 +47,7 @@ plugins:
   - search
   - minify:
       minify_html: true
+  - rss
 
 # Customization
 extra:
@@ -56,7 +58,8 @@ extra:
       link: https://twitter.com/
     - icon: fontawesome/brands/spotify
       link: spotify:user:12glou9s4691jdz6arkbb8zmn
-
+    - icon: fontawesome/brands/youtube
+      link: https://hackettyu.substack.com/p/coming-soon
 # Extensions
 markdown_extensions:
   - codehilite
@@ -113,32 +116,16 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-# Page tree
+# TODO
 # nav:
 #   - Home: index.md
-#   - Getting started: getting-started.md
-#   - Extensions:
-#     - Admonition: extensions/admonition.md
-#     - CodeHilite: extensions/codehilite.md
-#     - Footnotes: extensions/footnotes.md
-#     - Metadata: extensions/metadata.md
-#     - Permalinks: extensions/permalinks.md
-#     - PyMdown: extensions/pymdown.md
-#   - Plugins:
-#     - Search: plugins/search.md
-#     - Minification: plugins/minification.md
-#     - Revision date: plugins/revision-date.md
-#     - Awesome pages: plugins/awesome-pages.md
-#   - Releases:
-#     - Upgrading to 5.x: releases/5.md
-#     - Upgrading to 4.x: releases/4.md
-#     - Changelog: releases/changelog.md
-#   - Customization: customization.md
-#   - Data privacy: data-privacy.md
-#   - Contributing: contributing.md
-#   - License: license.md
+#   - Weekly: weekly/weekly-2020-10-0x01-.md
 
-# Google Analytics
+
 google_analytics:
   - UA-146236033-1
   - auto
+
+extra_javascript:
+  # baidu stat
+  - 'js/baidu-stat.js'

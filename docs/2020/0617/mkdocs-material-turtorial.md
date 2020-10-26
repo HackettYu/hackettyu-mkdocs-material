@@ -383,6 +383,9 @@ Support Types:
 - [X] Example
 - [X] Quote
 
+## Plugins
+
+- rss: [https://guts.github.io/mkdocs-rss-plugin/](https://guts.github.io/mkdocs-rss-plugin/)
 ## 引用
 
 - [MkDocs Project documentation with Markdown](https://www.mkdocs.org/)

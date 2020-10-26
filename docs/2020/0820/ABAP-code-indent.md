@@ -58,7 +58,7 @@ ABAP 的代码缩进不同于许多其它语言，因为语法的原因可能导
 ## 2. Statements
 
 ### 2.1 TYPE Statement
-变量定义不必对其 TYPE 关键字
+变量定义不必对齐 TYPE 关键字
 
 ```diff
 + DATA name   TYPE seoclsname.

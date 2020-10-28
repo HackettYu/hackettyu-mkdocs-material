@@ -1,4 +1,4 @@
-# Python logging
+# [hackettyu'snippets] Python logging
 
 ```python
 import logging

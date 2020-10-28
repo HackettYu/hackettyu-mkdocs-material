@@ -1,4 +1,4 @@
-# 获取 github 快速 IP
+# [转载] 获取 github 快速 IP
 
 > VIA:https://gist.github.com/lilydjwg/93d33ed04547e1b9f7a86b64ef2ed058
 

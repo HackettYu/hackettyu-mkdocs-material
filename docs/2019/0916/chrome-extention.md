@@ -1,5 +1,5 @@
 ---
-title: Chrome 解决第三方扩展安装的问题
+title: 解决 Chrome 第三方扩展安装的问题
 date: 2019-09-16 12:00:00
 category:
 - note

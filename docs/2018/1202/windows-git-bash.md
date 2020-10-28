@@ -1,5 +1,5 @@
 ---
-title: windows git bash 配置颜色主题
+title: windows git bash 配置终端主题
 date: 2018-12-02 10:00:00
 category:
     - note

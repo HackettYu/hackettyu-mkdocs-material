@@ -1,4 +1,4 @@
-# CSS光标下划线跟随效果
+# [hackettyu'snippets] CSS光标下划线跟随效果
 
 ```css
 ul {

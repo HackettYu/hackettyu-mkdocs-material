@@ -1,4 +1,4 @@
-# LGTM
+# [转载] LGTM
 
 > VIA
 

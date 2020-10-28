@@ -1,4 +1,4 @@
-# case function
+# [hackettyu'snippets] case function
 
 ```js
 function getStatus(action) {

@@ -1,4 +1,4 @@
-# 返回一个包含当前 URL 参数的对象
+# [hackettyu'snippets] Javascript 返回一个包含当前 URL 参数的对象
 
 ```js
 const getURLParameters = url =>

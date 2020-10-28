@@ -1,5 +1,5 @@
 ---
-title: Windows 下磁盘多余的图标删除
+title: 删除 Windows 下磁盘多余的图标
 date: 2018-10-10 10:00:00
 category:
     - log

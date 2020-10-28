@@ -1,4 +1,4 @@
-# UUID
+# [hackettyu'snippets] Javascript 获取 UUID
 
 - 生成 uuid
 

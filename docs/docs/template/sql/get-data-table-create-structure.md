@@ -1,4 +1,4 @@
-# get-data-table-create-structure
+# [hackettyu'snippets] get-data-table-create-structure
 
 > 获取数据表 create 结构
 

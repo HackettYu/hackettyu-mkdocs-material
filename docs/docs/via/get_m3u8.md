@@ -1,4 +1,4 @@
-# 使用 Javascript 获取 m3u8
+# [转载] 使用 Javascript 获取 m3u8
 
 > VIA:https://nilaoda.github.io/N_m3u8DL-CLI/GetM3u8.html
 

@@ -1,5 +1,5 @@
 ---
-title: 代码行统计
+title: 用命令行工具 cloc 做代码行统计
 date: 2018-09-27 12:00:00
 category:
     - log 

@@ -1,5 +1,5 @@
 ---
-title: hexo 博客添加 OGP
+title: 给 hexo 博客添加 OGP 支持
 date: 2019-10-30 12:00:00
 category:
 - note

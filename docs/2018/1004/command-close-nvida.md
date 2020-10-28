@@ -1,5 +1,5 @@
 ---
-title: 命令行开启 | 关闭显卡
+title: 用命令行操作 window 显卡
 date: 2018-10-04 14:00:00
 category:
     - note 

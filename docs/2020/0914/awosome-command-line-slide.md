@@ -1,4 +1,4 @@
-# Command line interface
+# Awesome command line slide | 命令行介绍幻灯片
 
 CLI =>
 

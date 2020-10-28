@@ -1,4 +1,4 @@
-# markdown snippets
+# [hackettyu'snippets] markdown snippets
 
 ## KEYBOARD
 

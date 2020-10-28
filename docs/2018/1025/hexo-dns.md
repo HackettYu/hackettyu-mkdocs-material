@@ -1,5 +1,5 @@
 ---
-title: hexo 配置 dns 分流的问题
+title: hexo 配置 dns 分流的问题处理
 date: 2018-10-25 12:00:00
 category:
     - debug

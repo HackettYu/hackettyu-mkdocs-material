@@ -1,4 +1,4 @@
-# 菲波那切数列
+# [hackettyu'snippets] 菲波那切数列
 
 ```javascript
 const fibonacci = n =>

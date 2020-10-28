@@ -1,4 +1,4 @@
-# Json 风格指南笔记
+# [hackettyu'note] Json 风格指南笔记
 
 > REF: https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md
 

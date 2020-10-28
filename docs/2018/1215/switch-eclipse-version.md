@@ -1,5 +1,5 @@
 ---
-title: 切换 eclipse 编译版本
+title: 切换 eclipse 编译 Java 版本
 date: 2018-12-15 12:00:00
 category:
 - note

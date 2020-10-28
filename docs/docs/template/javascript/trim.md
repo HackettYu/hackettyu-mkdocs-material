@@ -1,4 +1,4 @@
-# trim
+# [hackettyu'snippets] Javascript trim method
 
 > 兼容的 trim()
 

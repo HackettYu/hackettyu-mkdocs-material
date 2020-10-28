@@ -1,4 +1,4 @@
-# Pytest snippets
+# [hackettyu'snippets] Pytest snippets
 
 ```python
 # List of snippets
@@ -37,4 +37,16 @@ assert 1 < 2
 assert 1 <= 1
 # a!=
 assert 1 != 2
+```
+
+pytest.ini
+
+```ini
+[pytest]
+log_cli = 1
+log_cli_level = INFO
+log_cli_format = %(asctime)s [%(levelname)8s] %(message)s (%(filename)s:%(lineno)s)
+log_cli_date_format=%Y-%m-%d %H:%M:%S
+
+markers =
 ```

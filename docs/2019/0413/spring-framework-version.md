@@ -1,5 +1,5 @@
 ---
-title: 获取 spring-framework 所有版本更新信息
+title: 利用 Github API 获取 spring-framework 所有版本更新信息
 date: 2019-04-13 12:00:00
 category:
 - note

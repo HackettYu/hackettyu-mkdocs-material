@@ -1,4 +1,4 @@
-# Emoji Snippets
+# [hackettyu'snippets] Emoji Snippets
 
 ## Emoji List
 

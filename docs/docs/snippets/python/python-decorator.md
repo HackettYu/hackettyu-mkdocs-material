@@ -1,4 +1,4 @@
-# Python decorator
+# [hackettyu'snippets] Python decorator
 
 `demo`
 

@@ -1,4 +1,4 @@
-# jquery
+# [hackettyu'snippets] jquery
 
 - 原生javascript方法：
 

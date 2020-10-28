@@ -1,4 +1,4 @@
-# and operator 的妙用
+# [hackettyu'snippets] and operator 的妙用
 
 例如下面两种写法是等价的
 ```python

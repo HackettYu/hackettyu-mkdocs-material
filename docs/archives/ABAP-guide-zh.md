@@ -2,7 +2,7 @@
 > Translated from [English original on 14.11.2019](https://github.com/SAP/styleguides/tree/72ecf7fd7d41151d5bbca29020d4ec9de953db8c).
 > Latest version [in English](CleanABAP).
 
-# ABAP 整洁之道
+# [转载] ABAP 整洁之道
 
 > [**中文**](CleanABAP_zh)
 > &nbsp;·&nbsp;

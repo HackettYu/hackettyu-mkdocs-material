@@ -1,4 +1,4 @@
-# js 语音合成
+# [hackettyu'snippets] Javascirpt 语音合成
 
 ```javascript
 const speechSynthesis = message => {

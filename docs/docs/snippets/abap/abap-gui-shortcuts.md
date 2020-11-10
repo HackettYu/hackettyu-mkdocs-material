@@ -1,4 +1,4 @@
-# [hackettyu'note] abap gui shortcuts
+# [hackettyu'snippets] abap gui shortcuts
 
 | Shortcut | Description |
 | --- | --- |

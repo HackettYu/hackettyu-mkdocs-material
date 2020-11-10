@@ -1,695 +1,711 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://hackettyu.com/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://hackettyu.com/cheatsheet/</loc>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/newsletter/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/rss/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/todo/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/what-i-use/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://hackettyu.com/2018/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <loc>https://hackettyu.com/words/</loc>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/0913/ubuntu-board/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/0927/code-cloc/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1001/chromium-google-api/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1004/command-close-nvida/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1004/powershell-upper/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1006/linux-ln/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1008/windows-media-play/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1010/windows-delete-icon/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1018/java-swap-function/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1025/firewall-cmd/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1025/hexo-dns/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1113/ssh-login/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1202/windows-git-bash/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1215/switch-eclipse-version/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2018/1215/wtf/</loc>
-     <lastmod>2020-10-28</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://hackettyu.com/2019/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2019/0102/javascript-use/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2019/0216/javascript-error-msg/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2019/0413/spring-framework-version/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2019/0414/tomcat-deploy-web/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2019/0916/chrome-extention/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2019/1030/hexo-ogp/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2019/1104/hexo-kindle/</loc>
-     <lastmod>2020-10-28</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://hackettyu.com/2020/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2020/0320/vscode-diff/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2020/0507/windows-scoop/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2020/0617/mkdocs-material-turtorial/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2020/0820/ABAP-code-indent/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2020/0909/lightproxy-unofficial-document/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/2020/0914/awosome-command-line-slide/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://hackettyu.com/2020/1102/python-enum/</loc>
+     <lastmod>2020-11-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://hackettyu.com/2020/1104/sap-mdg-api-example/</loc>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/archives/ABAP-guide-zh/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/171216/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/171231/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/180102/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/180103/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/180510/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/180828_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/180828_2/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/180915/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/181001_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/181003_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/181004_4/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/181208_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/backup/200206_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/bash-cheatsheet/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/funny/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/about-wifi/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/chcp/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/clip/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/fuck/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/gcc/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/javap/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/netstat/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/ping/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/set/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/shutdown/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/taskkill/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/wireshark/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/wmic/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/cmd/wsl/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/cat/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/csplit/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/dd/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/df/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/dpkg/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/ethtool/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/find/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/git/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/grep/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/history/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/ifconfig/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/last/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/lsof/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/mmv/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/mv/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/scp/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/service/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/shred/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/split/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/tail/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/top/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/w/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/watch/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/linux/wget/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/service/docker/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/service/github/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/service/hexo/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/service/mysql/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/service/rsshub/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/service/sycnthing/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/service/ttrss/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/ag/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/aria2/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/asciinema/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/book/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/bypy/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/code/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/curl/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/diff2html/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/docker/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/fail2ban/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://hackettyu.com/docs/command/tools/fd/</loc>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/ffmepg/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/jq/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/mvn/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/nativefier/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/npm/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/ossutil/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/pandoc/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/pdfminer.six/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/pip/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/poetry/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/spotdl/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/wkhtmltopdf/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/ydict/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/you-get/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/command/tools/z/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/180719/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/180720_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/180720_2/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/180916/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/180919/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/180920/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/180921/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/180927_2/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/180927_3/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/181001_6/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/181004_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/181016_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/190218_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/190218_2/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/digest/190606_1/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/log/firefox-addon/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/log/fix-bugs/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/note/ISO-8601/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/note/code-pushdown/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/note/code-smell/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/note/json-styleguide-note/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/note/my-todoist/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/note/ubuntu/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/emoji-snippets/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/abap/abap-gui-shortcuts/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/others/cons-function/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/others/function-prefix-words/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/others/markdown/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/others/regex/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/others/test-if/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/python/pytest/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/python/python-builder/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/python/python-decorator/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/python/python-http-request-soap-xml/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/python/python-logging/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/snippets/python/python-mock/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/template/css/focus-cursor-move/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/template/javascript/fibonacci/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/template/javascript/jquery/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/template/javascript/trim/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/template/javascript/url/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/template/javascript/uuid/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/template/javascript/voice/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/template/sql/get-data-table-create-structure/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/via/LGTM/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/via/bilibili-rex/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/via/get_m3u8/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/docs/via/github_check/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/weekly/weekly-2020-10-0x01/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://hackettyu.com/weekly/weekly-2020-10-0x02/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-11-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://hackettyu.com/weekly/weekly-2020-11-0x01/</loc>
+     <lastmod>2020-11-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://hackettyu.com/weekly/weekly-2020-11-0x02/</loc>
+     <lastmod>2020-11-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

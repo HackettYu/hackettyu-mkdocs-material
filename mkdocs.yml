@@ -3,7 +3,7 @@ site_name: hackettyu'blog
 site_url: https://hackettyu.com
 site_author: hackettyu
 site_description:
-  hackettyu.com
+  hackettyu 的个人博客 | hackettyu'blog
 # Repository
 repo_name: hackettyu/mkdocs-material
 repo_url: https://github.com/hackettyu/mkdocs-material
@@ -55,11 +55,11 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/hackettyu
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/
+      link: https://twitter.com/HackettYu
     - icon: fontawesome/brands/spotify
       link: spotify:user:12glou9s4691jdz6arkbb8zmn
     - icon: fontawesome/brands/youtube
-      link: https://hackettyu.substack.com/p/coming-soon
+      link: https://hackettyu.substack.com
 # Extensions
 markdown_extensions:
   - codehilite
@@ -128,4 +128,4 @@ google_analytics:
 
 extra_javascript:
   # baidu stat
-  - 'js/baidu-stat.js'
+  - '/js/baidu-stat.js'

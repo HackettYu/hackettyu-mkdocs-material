@@ -1,5 +1,5 @@
 ---
-title: Windows 下使用 Scoop 安装环境
+title: Windows 下使用 Scoop 安装环境以及各种软件
 date: 2020-05-07 20:40:00
 category:
 - note

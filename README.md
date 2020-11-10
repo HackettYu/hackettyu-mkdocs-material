@@ -11,4 +11,5 @@ mkdocs gh-deploy
 
 ```bash
 pip install mkdocs-rss-plugin
+pip install jieba
 ```

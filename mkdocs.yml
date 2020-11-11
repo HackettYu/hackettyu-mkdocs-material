@@ -47,7 +47,7 @@ plugins:
   - search
   - minify:
       minify_html: true
-  - rss
+  # - rss
 
 # Customization
 extra:

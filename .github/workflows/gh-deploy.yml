@@ -24,10 +24,12 @@ jobs:
         run: | 
           pip install -U pip
           pip install wheel
-          pip install gitpython==3.1.11
-          pip install Jinja2==2.11.2
-          pip install mkdocs-rss-plugin==0.9.0
           pip install mkdocs-minify-plugin==0.3.0
+          
+        # pip install gitpython==3.1.11
+        # pip install Jinja2==2.11.2
+        # pip install mkdocs-rss-plugin==0.9.0
+          
          
       - name: Deploy docs
         uses: 

@@ -22,11 +22,12 @@ jobs:
 
       - name: Install Poetry
         uses: Gr1N/setup-poetry@v4
-        run: poetry --version
 
       - name: Add mkdocs plugins
-        run: poetry install
-        
+        run: |
+          poetry --version
+          poetry install
+
       - name: Deploy docs
         uses: 
           mhausenblas/mkdocs-deploy-gh-pages@master

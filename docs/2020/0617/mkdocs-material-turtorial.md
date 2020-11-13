@@ -386,6 +386,12 @@ Support Types:
 ## Plugins
 
 - rss: [https://guts.github.io/mkdocs-rss-plugin/](https://guts.github.io/mkdocs-rss-plugin/)
+
+## Resources
+
+- [Mkdocs-Material Icon](https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons)
+
+
 ## 引用
 
 - [MkDocs Project documentation with Markdown](https://www.mkdocs.org/)

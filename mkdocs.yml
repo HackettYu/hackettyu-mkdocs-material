@@ -58,7 +58,7 @@ extra:
       link: https://twitter.com/HackettYu
     - icon: fontawesome/brands/spotify
       link: spotify:user:12glou9s4691jdz6arkbb8zmn
-    - icon: fontawesome/brands/youtube
+    - icon: fontawesome/solid/rss
       link: https://hackettyu.substack.com
 # Extensions
 markdown_extensions:

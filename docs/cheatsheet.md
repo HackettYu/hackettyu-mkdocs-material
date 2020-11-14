@@ -35,3 +35,38 @@
 - https://raw.fastgit.org | 中国香港
 
 - https://git.yumenaka.net | 美国洛杉矶
+
+
+## Markdown
+
+- Magic Table: https://stevecat.net/table-magic/#
+
+## Linux
+
+* etcher | 镜像录制: https://www.balena.io/etcher/
+
+## Programming
+
+### Tools
+
+* repl.it: https://repl.it/?__cf_chl_jschl_tk__=64bbecbc114ae77fb3aa0f61f96ef77fd365a117-1604590666-0-AcCQ97Xd1oi7UH3bJ84dVHRhdCsO00arCeFFPKL11jRYnwZz0YKDja9Hmwr98VML1SmC8sj8yBEAz1o3bdCJ2yTY6owAlUULCWv9rUCqYrU4CkWsGFxFly5YkHZBXp-ENSmZSdHI9Ecs0ybZSNzurA2ZmPzO1DmIH-yJyypSMsqAwI4oL55bDolOCOcvd1iWRl3BUvn5fnBBAT5MnRgCSo-n0EeJAzghwnEq5J9Kmh5JVi-x05XoQ72kYNUIt7A-FXkY9k24Nn3lPdxNJ6DAUVc
+
+### Sources
+
+* package: https://packager.io/
+
+## Document
+
+* WSL Document: https://dowww.spencerwoo.com/
+* python3-cookbook: https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
+
+
+## Community
+
+* https://dev.to/
+* https://v2ex.com/?tab=creative
+
+## Newsletters
+
+* 轻芒: https://www.notion.so/eb3ff11807184c218c8bbb4e05468856
+* Rust zh: https://rustcc.cn/section?id=f4703117-7e6b-4caf-aa22-a3ad3db6898f

@@ -17,3 +17,10 @@
 执行如下命令来导入所有数据：
 
 - cat export.sql | docker exec -i postgres psql -U postgres
+
+
+**进入容器中**
+
+```bash
+docker exec -it container_name /bin/bash
+```

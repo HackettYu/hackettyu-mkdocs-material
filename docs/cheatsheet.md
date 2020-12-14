@@ -59,6 +59,9 @@
 ## Document
 
 * WSL Document: https://dowww.spencerwoo.com/
+
+## Python
+
 * python3-cookbook: https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
 
 

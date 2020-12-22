@@ -56,6 +56,7 @@
 
 * package: https://packager.io/
 
+
 ## Document
 
 * WSL Document: https://dowww.spencerwoo.com/
@@ -63,6 +64,10 @@
 ## Python
 
 * python3-cookbook: https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
+
+## Web
+
+* https://www.whatsmybrowser.org/
 
 
 ## Community
@@ -74,3 +79,4 @@
 
 * 轻芒: https://www.notion.so/eb3ff11807184c218c8bbb4e05468856
 * Rust zh: https://rustcc.cn/section?id=f4703117-7e6b-4caf-aa22-a3ad3db6898f
+

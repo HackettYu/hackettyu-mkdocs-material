@@ -62,6 +62,7 @@ extra:
       link: https://hackettyu.substack.com
 # Extensions
 markdown_extensions:
+  - meta
   - codehilite
   - markdown.extensions.admonition
   - markdown.extensions.attr_list
@@ -76,7 +77,8 @@ markdown_extensions:
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
-  - pymdownx.critic
+  - pymdownx.critic:
+      mode: view
   - pymdownx.details
   - pymdownx.emoji
   - pymdownx.highlight:
@@ -115,6 +117,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+manifest: manifest.webmanifest
 
 # TODO
 # nav:

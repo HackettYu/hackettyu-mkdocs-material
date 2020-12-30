@@ -60,6 +60,7 @@ extra:
       link: spotify:user:12glou9s4691jdz6arkbb8zmn
     - icon: fontawesome/solid/rss
       link: https://hackettyu.substack.com
+  manifest: manifest.webmanifest
 # Extensions
 markdown_extensions:
   - meta

@@ -1,6 +1,6 @@
 # [hackettyu'snippets] Regex
 
-**末尾空格**
+**linix 空行**
 
 ```regex
 /(^\s*)|(\s*$)

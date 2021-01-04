@@ -14,8 +14,8 @@ copyright: Copyright &copy; 2018 - 2020
 
 # Configuration
 theme:
-  name: null
-  custom_dir: material
+  name: material
+  # custom_dir: material
 
   # 404 page
   static_templates:
@@ -60,7 +60,6 @@ extra:
       link: spotify:user:12glou9s4691jdz6arkbb8zmn
     - icon: fontawesome/solid/rss
       link: https://hackettyu.substack.com
-  manifest: manifest.webmanifest
 # Extensions
 markdown_extensions:
   - meta
@@ -118,13 +117,11 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-manifest: manifest.webmanifest
 
 # TODO
 # nav:
 #   - Home: index.md
 #   - Weekly: weekly/weekly-2020-10-0x01-.md
-
 
 google_analytics:
   - UA-146236033-1

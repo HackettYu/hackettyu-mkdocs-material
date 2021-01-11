@@ -67,7 +67,7 @@
     * [X] 捕蛇者说
 
 ===! "Book List"
-    **2020**
+    **2021**
 
     - [x] 香港第一课                   2020-02-02
     - [x] 编程珠玑-续                  2020-03-02
@@ -94,6 +94,8 @@
     - [ ] BPF 之巅
     - [ ] 咖啡冲煮科学
     - [ ] 咖啡豆科学
+    - [ ] Software Engineering at Google
+    - [ ] The Effective Engineer
 
 ===! "Just List"
 

@@ -10,7 +10,7 @@ repo_url: https://github.com/hackettyu/mkdocs-material
 edit_uri: "https://github.com/HackettYu/mkdocs-material/blob/master/docs"
 
 # Copyrighpro
-copyright: Copyright &copy; 2018 - 2020
+copyright: Copyright &copy; 2018 - 2021
 
 # Configuration
 theme:
@@ -45,7 +45,7 @@ theme:
 
 # Plugins
 plugins:
-  - search
+  # - search
   # - rss
   - minify:
       minify_html: true

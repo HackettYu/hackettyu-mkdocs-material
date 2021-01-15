@@ -9,6 +9,8 @@
 + [2020-06-16]:[add material-mkdocs]
 ```
 
+### Drinking
+
 === "Wine List"
     * 苦精酒
     * Absinth
@@ -28,6 +30,7 @@
 
 === "Coffee List"
     **哥斯达黎加**
+
     * [ ] 莫加特
      
     **也门**
@@ -53,11 +56,13 @@
 
     * [X] 惠兰
 
-
 === "Beer List"
     * 树屋
 
-=== "Podcast List"
+
+### Media
+
+===! "Podcast List"
     * [X] FLOWCoffee
     * [X] 枫言枫语
     * [X] 随机波动
@@ -65,6 +70,8 @@
     * [X] Teahour
     * [X] weak self
     * [X] 捕蛇者说
+
+### Book
 
 ===! "Book List"
     **2021**
@@ -97,7 +104,7 @@
     - [ ] Software Engineering at Google
     - [ ] The Effective Engineer
 
-===! "Just List"
+=== "Just List"
 
     ```diff
     + 酒吧长谈
@@ -125,10 +132,10 @@
     + 世界咖啡地图
     ```
 
-===! "English"
+=== "English"
 
     ```diff
-    + Software Engineering at Google: Lessons Learned from Programming Over Time
+    + Software Engineering at Google
     + Chaos Engineering
     + The New Hacker's Dictionary
     + Remote

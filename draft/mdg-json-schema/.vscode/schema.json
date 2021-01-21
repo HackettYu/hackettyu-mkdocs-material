@@ -1,0 +1,30 @@
+{
+    "title": "Rest",
+    "type": "object",
+    "markdownDescription": "TODO this a hover text",
+    "properties": {
+        "esbInfo": {
+            "description": "信息",
+            "type": "object",
+            "defaultSnippets": [
+                {
+                    "lable": "Lable foo",
+                    "body": "Body foo"
+                },
+                {
+                    "lable": "Lable bar",
+                    "body": "Body bar"
+                }
+            ]
+        },
+        "requestInfo": {
+            "description": "请求参数",
+            "type": "object"
+        },
+        "queryInfo": {
+            "description": "查询参数",
+            "type": "object"
+        }
+    },
+    "required": ["esbInfo", "requestInfo", "queryInfo"]
+}

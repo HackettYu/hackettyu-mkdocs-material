@@ -80,3 +80,8 @@
 * 轻芒: https://www.notion.so/eb3ff11807184c218c8bbb4e05468856
 * Rust zh: https://rustcc.cn/section?id=f4703117-7e6b-4caf-aa22-a3ad3db6898f
 
+## HOST
+
+```txt
+199.232.68.133 raw.githubusercontent.com
+```

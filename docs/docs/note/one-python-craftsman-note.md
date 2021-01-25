@@ -219,6 +219,108 @@ add(1, 2)
 add.eager_call(1, 2)
 ```
 
+使用 wrapt 包编写装饰器
+
+“装饰器模式”是一个完全基于“面向对象”衍生出的编程手法。它拥有几个关键组成：一个统一的接口定义、若干个遵循该接口的类、类与类之间一层一层的包装。最终由它们共同形成一种*“装饰”*的效果。
+
+而 Python 里的“装饰器”和“面向对象”没有任何直接联系，**它完全可以只是发生在函数和函数间的把戏。**事实上，“装饰器”并没有提供某种无法替代的功能，它仅仅就是一颗“语法糖”而已。
+
+在写装饰器的时候修改外层变量时记得使用 nonlocal
+
+## Python 工匠：一个关于模块的小故事、
+
+### 环形依赖
+
+如果对模块结构、分层、抽象缺少应有的重视。那么项目很容易就会慢慢变得复杂无比、难以维护
+
+## Python 工匠：做一个精通规则的玩家
+
+### 使用 dataclass 简化代码
+
+### 使用 __getitem__ 定义对象切片操作
+
+```python
+class Events:
+    def __init__(self, events):
+        self.events = events
+
+    def __len__(self):
+        """自定义长度，将会被用来做布尔判断"""
+        return len(self.events)
+
+    def __getitem__(self, index):
+        """自定义切片方法"""
+        # 直接将 slice 切片对象透传给 events 处理
+        return self.events[index]
+
+# 判断是否有内容，打印第二个和第三个对象
+if events:
+    print(events[1:3])
+```
+
+## Python 工匠：高效操作文件的三个建议
+
+### 建议一：使用 pathlib 模块
+
+os.listdir(path)：列出 path 目录下的所有文件*（含文件夹）*
+os.path.splitext(filename)：切分文件名里面的基础名称和后缀部分
+os.path.join(path, filename)：组合需要操作的文件名为绝对路径
+os.rename(...)：重命名某个文件
+
+```python
+from pathlib import Path
+
+def unify_ext_with_pathlib(path):
+    for fpath in Path(path).glob('*.txt'):
+        fpath.rename(fpath.with_suffix('.csv'))
+```
+
+和旧代码相比，新函数只需要两行代码就完成了工作。而这两行代码主要做了这么几件事：
+
+首先使用 Path(path) 将字符串路径转换为 Path 对象
+调用 .glob('*.txt') 对路径下所有内容进行模式匹配并以生成器方式返回，结果仍然是 Path 对象，所以我们可以接着做后面的操作
+使用 .with_suffix('.csv') 直接获取使用新后缀名的文件全路径
+调用 .rename(target) 完成重命名
+
+## Python 工匠：在边界处思考
+
+### 使用 pydantic 做数据校验
+
+```python
+from pydantic import BaseModel, conint, ValidationError
+
+
+class NumberInput(BaseModel):
+    # 使用类型注解 conint 定义 number 属性的取值范围
+    number: conint(ge=0, le=100)
+
+
+def input_a_number_with_pydantic():
+    while True:
+        number = input('Please input a number (0-100): ')
+
+        # 实例化为 pydantic 模型，捕获校验错误异常
+        try:
+            number_input = NumberInput(number=number)
+        except ValidationError as e:
+            print(e)
+            continue
+
+        number = number_input.number
+        break
+
+    print(f'Your number is {number}')
+```
+
+
+
+
+
+
+
+
+
+
 
 
 

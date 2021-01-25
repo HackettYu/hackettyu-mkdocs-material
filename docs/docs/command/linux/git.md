@@ -102,3 +102,7 @@ git config --global --unset https.proxy
 
 npm config delete proxy
 ```
+
+## Reference
+
+- [合并多个Commits](http://whatbeg.com/2017/04/01/combinecommits.html)

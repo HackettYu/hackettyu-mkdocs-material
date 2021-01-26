@@ -16,6 +16,7 @@ copyright: Copyright &copy; 2018 - 2021
 theme:
   name: material
   # custom_dir: material
+  
 
   # 404 page
   static_templates:
@@ -29,6 +30,7 @@ theme:
   language: zh
   features:
     - tabs
+    - navigation.tabs
     - instant: true
     # - search.highlight
   palette:
@@ -48,8 +50,6 @@ plugins:
   # - search
   - minify:
       minify_html: true
-  - rss
-
 # Customization
 extra:
   social:

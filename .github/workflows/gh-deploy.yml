@@ -41,10 +41,10 @@ jobs:
       - name: Add mkdocs plugins
         run: |
           poetry --version
-          poetry update
-          poetry add mkdocs-minify-plugin "^0.3.0"
+          poetry add mkdocs-minify-plugin
           poetry add gitpython==3.1.11
-          poetry add mkdocs-rss-plugin "^0.9.0"
+          poetry add mkdocs-rss-plugin
+          poetry update
           poetry install
          
       - name: Deploy docs

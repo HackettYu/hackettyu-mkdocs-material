@@ -19,33 +19,32 @@ jobs:
         uses: actions/setup-python@v1
         with:
             python-version: 3.8
-      
-      # - name: Cache venv
-      #   uses: actions/cache@v1
+
+      - name: Install plugins
+        run: | 
+          python -m pip install --upgrade pip setuptools wheel
+          pip install mkdocs-minify-plugin==0.3.0
+          pip install gitpython==3.1.11
+          pip install Jinja2==2.11.2
+          pip install mkdocs-rss-plugin
+
+      # - name: Install Poetry
+      #   uses: Gr1N/setup-poetry@v4
+      # - uses: actions/cache@v1
       #   with:
-      #     path: venv
-      #     # Look to see if there is a cache hit for the corresponding requirements file
-      #     key: ${{ matrix.os }}-poetryenv-${{ hashFiles('poetry.lock') }}
+      #     path: ~/.cache/pypoetry/virtualenvs
+      #     key: ${{ runner.os }}-poetry-${{ hashFiles('poetry.lock') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-poetry-
 
-      # - name: Install plugins
-      #   run: | 
-      #     python -m pip install --upgrade pip setuptools wheel
-      #     pip install mkdocs-minify-plugin==0.3.0
-      #     pip install gitpython==3.1.11
-      #     pip install Jinja2==2.11.2
-      #     pip install mkdocs-rss-plugin
-
-      - name: Install Poetry
-        uses: Gr1N/setup-poetry@v4
-
-      - name: Add mkdocs plugins
-        run: |
-          poetry --version
-          poetry add mkdocs-minify-plugin
-          poetry add gitpython==3.1.11
-          poetry add mkdocs-rss-plugin
-          poetry update
-          poetry install
+      # - name: Add mkdocs plugins
+      #   run: |
+      #     poetry --version
+      #     poetry update
+      #     poetry add mkdocs-minify-plugin@latest
+      #     poetry add gitpython==3.1.11
+      #     poetry add mkdocs-rss-plugin@latest
+      #     poetry install
          
       - name: Deploy docs
         uses: 

@@ -3,25 +3,21 @@ on:
   push:
     branches:
       - master
-
 jobs:
   build:
-    name: 
-      Deploy docs
-    runs-on: 
-      ubuntu-latest
+    name: Deploy docs
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout master
-        uses: 
-          actions/checkout@v2
+        uses: actions/checkout@v2
 
       - name: Install Python
         uses: actions/setup-python@v1
         with:
-            python-version: 3.8
+          python-version: 3.8
 
       - name: Install plugins
-        run: | 
+        run: |
           python -m pip install --upgrade pip setuptools wheel
           pip install mkdocs-minify-plugin==0.3.0
           pip install gitpython==3.1.11
@@ -45,13 +41,15 @@ jobs:
       #     poetry add gitpython==3.1.11
       #     poetry add mkdocs-rss-plugin@latest
       #     poetry install
-         
+
+      - name: Debug
+        run: |
+           find / -type d -iname "mkdocs-minify-plugin"
+           find / -type d -iname "mkdocs-rss-plugin"
+
       - name: Deploy docs
-        uses: 
-          mhausenblas/mkdocs-deploy-gh-pages@master
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
         # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
         env:
-          GITHUB_TOKEN: 
-            ${{ secrets.MKDOCS_MATERIAL_PERSONAL_TOKEN }}
-          CUSTOM_DOMAIN: 
-            hackettyu.com
+          GITHUB_TOKEN: ${{ secrets.MKDOCS_MATERIAL_PERSONAL_TOKEN }}
+          CUSTOM_DOMAIN: hackettyu.com

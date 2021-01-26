@@ -46,9 +46,9 @@ theme:
 # Plugins
 plugins:
   # - search
-  - rss
   - minify:
       minify_html: true
+  - rss
 
 # Customization
 extra:

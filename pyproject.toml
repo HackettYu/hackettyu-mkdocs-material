@@ -17,6 +17,6 @@ mkdocs-rss-plugin = "^0.9.0"
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
 
-[[tool.poetry.source]]
-name = "douban"
-url = "https://pypi.doubanio.com/simple"
+# [[tool.poetry.source]]
+# name = "douban"
+# url = "https://pypi.doubanio.com/simple"

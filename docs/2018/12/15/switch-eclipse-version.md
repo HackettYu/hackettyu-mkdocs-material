@@ -1,12 +1,9 @@
 ---
 title: 切换 eclipse 编译 Java 版本
-date: 2018-12-15 12:00:00
-category:
-- note
-tag:
-- eclipse
-- java
+description: 不同版本 JDK 编译是不同的
 ---
+
+> description: 不同版本 JDK 编译是不同的
 
 ## 简介
 ---

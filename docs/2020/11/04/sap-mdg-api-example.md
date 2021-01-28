@@ -1,4 +1,7 @@
-# SAP MDG API examples
+---
+title: SAP MDG API examples
+description:  http://www.sdn.sap.com/irj/scn/index?rid=/library/uuid/70f3f3d3-86e5-3010-909d-9162368bfbec&overridelayout=true
+---
 
 > Document PDF: http://www.sdn.sap.com/irj/scn/index?rid=/library/uuid/70f3f3d3-86e5-3010-909d-9162368bfbec&overridelayout=true
 

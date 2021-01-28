@@ -2,8 +2,8 @@
 site_name: hackettyu'blog
 site_url: https://hackettyu.com
 site_author: hackettyu
-site_description:
-  hackettyu 的个人博客 | hackettyu'blog
+site_description: >-
+  hackettyu'blog | eat sleep code repeat
 # Repository
 repo_name: hackettyu/mkdocs-material
 repo_url: https://github.com/hackettyu/mkdocs-material

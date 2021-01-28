@@ -1,14 +1,9 @@
 ---
 title: Windows 下使用 Scoop 安装环境以及各种软件
-date: 2020-05-07 20:40:00
-category:
-- note
-tag:
-- scoop
-- windows
-- CLI
-- rcfile
+description: 想实现只用脚本的情况下同步一台 Windows PC 的开发环境（安装各种开发中工具）
 ---
+
+> description: 想实现只用脚本的情况下同步一台 Windows PC 的开发环境（安装各种开发中工具）
 
 环境: WIN10 Pro
 工具: powershell(version > 3)/scoop

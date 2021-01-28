@@ -52,6 +52,12 @@
 - A^T^A
 ```
 
+## [1.1.0] - 2021-01-28
+
+### Added
+
+- meta-tags: https://squidfunk.github.io/mkdocs-material/reference/meta-tags/
+
 ## 关于 Changelog
 
 ### 指导原则

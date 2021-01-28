@@ -1,4 +1,9 @@
-# sycnthing
+---
+title: sycnthing
+description: [hakcettyu's cheetsheet]
+---
+
+> description: [hakcettyu's cheetsheet]
 
 > 同步盘
 

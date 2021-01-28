@@ -1,4 +1,9 @@
-# wget
+---
+title: wget
+description: [hakcettyu's cheetsheet]
+---
+
+> description: [hakcettyu's cheetsheet]
 
 递归下载一个 txt 里的 url
 

@@ -1,11 +1,9 @@
 ---
 title: linux ln 命令之硬链接和软连接
-date: 2018-10-06 10:00:00
-category:
-    - note 
-tag: 
-    - linux
+description: 知识点：硬链接和软连接，在做 dotfile 备份时看到的
 ---
+
+> description: 知识点：硬链接和软连接，在做 dotfile 备份时看到的
 
 ## 简介
 本来像利用 link 一个 cheat 文件在 `/user` 下发现 cat 后时乱码

@@ -1,11 +1,9 @@
 ---
 title: Cannot find one or more componets. Please reinstall the application
-date: 2018-12-15 12:00:00
-category:
-- debug
-tag:
-- windows
+description: Cannot find one or more componets. Please reinstall the application
 ---
+
+> description: 奇葩问题：Cannot find one or more componets. Please reinstall the application
 
 ## 简介
 ---

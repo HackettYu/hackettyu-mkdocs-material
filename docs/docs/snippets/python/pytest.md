@@ -1,4 +1,9 @@
-# [hackettyu'snippets] Pytest snippets
+---
+title: Pytest snippets
+description: [hackettyu'snippets] 
+---
+
+> description: [hackettyu'snippets]
 
 ```python
 # List of snippets

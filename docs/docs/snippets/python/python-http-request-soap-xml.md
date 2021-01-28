@@ -1,4 +1,9 @@
-# [hackettyu'snippets] Python http request soap xml
+---
+title: Python http request soap xml
+description: [hackettyu'snippets] 
+---
+
+> description: [hackettyu'snippets]
 
 ```pyhton
 import requests

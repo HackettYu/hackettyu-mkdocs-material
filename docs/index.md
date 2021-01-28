@@ -15,7 +15,7 @@
 
 ### Disqus
 
-[https://github.com/HackettYu/mkdocs-material/issues/1](https://github.com/HackettYu/mkdocs-material/issues/1)
+[https://github.com/HackettYu/mkdocs-material/discussions](https://github.com/HackettYu/mkdocs-material/discussions)
 
 ### Find
 

@@ -1,15 +1,12 @@
 ---
 title: 给 hexo 添加 send to kindle 链接
-date: 2019-11-04 20:40:00
-category:
-- note
-tag:
-- hexo
+description: 看到一个[博客](https://blog.lilydjwg.me/2019/8/16/gh-check.214730.html)里面有一个添加了 send to kindle 链接，准备在自己 hexo 博客中也搞一个
 ---
 
-## 简介
+> description: 看到一个[博客](https://blog.lilydjwg.me/2019/8/16/gh-check.214730.html)里面有一个添加了 send to kindle 链接，准备在自己 hexo 博客中也搞一个
 
-看到一个[博客](https://blog.lilydjwg.me/2019/8/16/gh-check.214730.html)里面有一个添加了 send to kindle 链接，准备在自己 hexo 博客中也搞一个
+## Quick Start
+
 找到文件`theme\next\layout\_macro\post.swig`
 
 找到一个你想添加的位置

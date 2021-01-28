@@ -1,4 +1,9 @@
-# clip
+---
+title: clip
+description: [hakcettyu's cheetsheet]
+---
+
+> description: [hakcettyu's cheetsheet]
 
 - echo Hello | clip `将字符串 Hello 放入 Windows 剪贴板`
 

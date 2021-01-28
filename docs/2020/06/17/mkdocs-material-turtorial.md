@@ -1,7 +1,10 @@
-# Mkdocs 搭建博客指北
+---
+title: Mkdocs 搭建博客指北
+description: 最近在看 fastAPI 的文档，无意中发现许多 Python 的库的官方文档都是用的 Mkdocs-Materials
+---
 
-> 最近在看 fastAPI 的文档，无意中发现许多 Python 的库的官方文档都是用的 Mkdocs-Materials
-> 
+> description: 最近在看 fastAPI 的文档，无意中发现许多 Python 的库的官方文档都是用的 Mkdocs-Materials
+
 ## 什么是 Mkdocs
 
 > MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file. Start by reading the introduction below, then check the User Guide for more info.

@@ -1,12 +1,9 @@
 ---
 title: SSH 登录时出现如下错误：Disconnected:No supported authentication methods available
-date: 2018-11-18 12:00:00
-category:
-    - debug
-tag: 
-    - linux
-    - ssh
+description: 这个问题应该在新买的服务器上都会遇到这个（我买的时 digitalocean） 
 ---
+
+> description: 这个问题应该在新买的服务器上都会遇到这个（我买的时 digitalocean）
 
 ## 简介
 ssh 登录时出现如下错误：Disconnected:No supported authentication methods

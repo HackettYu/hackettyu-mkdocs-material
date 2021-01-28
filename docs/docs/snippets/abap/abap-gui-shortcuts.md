@@ -1,4 +1,9 @@
-# [hackettyu'snippets] abap gui shortcuts
+---
+title: abap gui shortcuts
+description: [hackettyu'snippets]
+---
+
+> description: [hackettyu'snippets]
 
 | Shortcut | Description |
 | --- | --- |

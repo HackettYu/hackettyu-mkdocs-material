@@ -1,4 +1,10 @@
-# [hackettyu'snippets] and operator 的妙用
+---
+title: and operator 的妙用
+description: [hackettyu'snippets] 
+---
+
+> description: [hackettyu'snippets]
+
 
 例如下面两种写法是等价的
 ```python

@@ -1,4 +1,9 @@
-# [hackettyu'snippets] Python logging
+---
+title: Python logging
+description: [hackettyu'snippets] 
+---
+
+> description: [hackettyu'snippets]
 
 ```python
 import logging

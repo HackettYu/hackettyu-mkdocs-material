@@ -1,4 +1,9 @@
-# [hackettyu'snippets] Emoji Snippets
+---
+title: Emoji Snippets
+description: [hackettyu'snippets] 
+---
+
+> description: [hackettyu'snippets]
 
 ## Emoji List
 

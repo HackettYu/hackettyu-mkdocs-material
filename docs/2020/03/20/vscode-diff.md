@@ -1,12 +1,9 @@
 ---
 title: 命令行下打开 Visual Studio Code
-date: 2020-03-20 12:00:00
-category:
-- note
-tag:
-- vscode
-- command
+description: 命令行下 <code> 命令可以直接打开 VSCode，只要添加环境变量就行了
 ---
+
+> description: 命令行下 <code> 命令可以直接打开 VSCode，只要添加环境变量就行了
 
 > 环境：WIN10
 

@@ -1,4 +1,9 @@
-# csplit
+---
+title: csplit
+description: [hakcettyu's cheetsheet]
+---
+
+> description: [hakcettyu's cheetsheet]
 
 ``` vim
 分割文件

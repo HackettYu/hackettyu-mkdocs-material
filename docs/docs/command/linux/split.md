@@ -1,4 +1,9 @@
-## SPLIT 文件分割
+---
+title: split
+description: [hakcettyu's cheetsheet]
+---
+
+> description: [hakcettyu's cheetsheet]
 
 - split -l {{1}} {{filename}}
 

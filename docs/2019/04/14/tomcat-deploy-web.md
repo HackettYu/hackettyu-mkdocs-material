@@ -1,16 +1,9 @@
 ---
 title: 利用 Tomcat8/maven 部署 web 工程
-date: 2019-04-14 12:00:00
-category:
-- note
-tag:
-- tomcat
-- debug
+description: 今天尝试用 Tomcat8 + maven 部署一下 web 工程, 然后我开始疯狂踩坑
 ---
 
-## 简介
----
-今天尝试用 Tomcat8 + maven 部署一下 web 工程, 然后我开始疯狂踩坑
+> description: 今天尝试用 Tomcat8 + maven 部署一下 web 工程, 然后我开始疯狂踩坑
 
 ## 快速上手
 ---

@@ -1,4 +1,9 @@
-# ABAP 创建 RESTful 接口
+---
+title: ABAP 创建 RESTful 接口
+description: 实现 IF_HTTP_EXTENSION 接口即可
+---
+
+> description: 实现 IF_HTTP_EXTENSION 接口即可
 
 ## 创建一个实现 IF_HTTP_EXTENSION 接口的类
 

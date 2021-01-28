@@ -1,11 +1,9 @@
 ---
 title: 删除 Windows 下磁盘多余的图标
-date: 2018-10-10 10:00:00
-category:
-    - log
-tag: 
-    - windows
+description: 已经买 mac
 ---
+
+> description: 已经买 mac
 
 ## 快速入门
 

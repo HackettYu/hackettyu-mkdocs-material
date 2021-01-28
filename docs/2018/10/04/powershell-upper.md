@@ -1,13 +1,9 @@
 ---
 title: 命令行下 powershell 提权
-date: 2018-10-04 12:00:00
-category:
-    - note 
-tag: 
-    - command
-    - powershell
-    - script
+description: windows 下 powershell 没有 sudo 命令，每次需要管理员权限的时候都需要按 <WIN + X>
 ---
+
+> description: windows 下 powershell 没有 sudo 命令，每次需要管理员权限的时候都需要按 <WIN + X>
 
 ## 简介
 

@@ -1,4 +1,9 @@
-# [hackettyu'snippets] Python decorator
+---
+title: Python decorator
+description: [hackettyu'snippets] 
+---
+
+> description: [hackettyu'snippets]
 
 `demo`
 

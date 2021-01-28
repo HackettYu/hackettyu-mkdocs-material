@@ -1,4 +1,9 @@
-# Awesome command line slide | 命令行介绍幻灯片
+---
+title: Awesome command line slide | 命令行介绍幻灯片
+description: 一个关于 command line 的 slide
+---
+
+> description: 一个关于 command line 的 slide
 
 CLI =>
 

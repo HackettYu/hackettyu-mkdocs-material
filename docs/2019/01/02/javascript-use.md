@@ -1,11 +1,9 @@
 ---
 title: JavaScript 作用域问题
-date: 2019-01-02 12:00:00
-category:
-- note
-tag:
-- JavaScript
+description: 作用域不同语言的答案不一样
 ---
+
+> description: 作用域不同语言的答案不一样
 
 ## 简介
 

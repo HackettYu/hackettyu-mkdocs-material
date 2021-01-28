@@ -1,11 +1,9 @@
 ---
 title: 用命令行工具 cloc 做代码行统计
-date: 2018-09-27 12:00:00
-category:
-    - log 
-tag: 
-    - others
+description: cloc 是一个统计代码行的命令行工具，虽然说应该看删除的代码行（雾）
 ---
+
+> description: cloc 是一个统计代码行的命令行工具，虽然说应该看删除的代码行（雾）
 
 ### Why use cloc
 

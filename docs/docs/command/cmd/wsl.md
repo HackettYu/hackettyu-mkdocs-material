@@ -1,4 +1,9 @@
-# wsl
+---
+title: wsl
+description: [hakcettyu's cheetsheet]
+---
+
+> description: [hakcettyu's cheetsheet]
 
 > windows terminal
 

@@ -1,11 +1,9 @@
 ---
 title: windows git bash 配置终端主题
-date: 2018-12-02 10:00:00
-category:
-    - note
-tag: 
-    - git
+description: 意外发现 git bash 里自带跳转到一个配置终端主题颜色的 Web
 ---
+
+> description: 意外发现 git bash 里自带跳转到一个配置终端主题颜色的 Web
 
 ## 简介
 在使用 git 配置时点击了颜色配置工具跳转到了一个 [github page](http://ciembor.github.io/4bit/#) 里，发现是一个可视化配置的工具，它可以生成多种终端的颜色主题文件。

@@ -1,11 +1,9 @@
 ---
 title: 一个 java swap 函数关于值传递与引用
-date: 2018-10-18 10:00:00
-category:
-    - debug
-tag: 
-    - java
+description: 关于值传递与引用，我还是通过这个实践才真正理解
 ---
+
+> description: 关于值传递与引用，我还是通过这个实践才真正理解
 
 ## 简介
 在写算法的时候，书本里使用的 c 语言里的 swap 函数，头一热就在 java 里写了一个。

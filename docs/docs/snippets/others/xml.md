@@ -1,4 +1,9 @@
-# XML
+---
+title: XML
+description: [hackettyu'snippets] 
+---
+
+> description: [hackettyu'snippets]
 
 ## xml文件特殊字符处理
 

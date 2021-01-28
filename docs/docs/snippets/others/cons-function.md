@@ -1,4 +1,9 @@
-# [hackettyu'snippets] case function
+---
+title: case function
+description: [hackettyu'snippets]
+---
+
+> description: [hackettyu'snippets]
 
 ```js
 function getStatus(action) {

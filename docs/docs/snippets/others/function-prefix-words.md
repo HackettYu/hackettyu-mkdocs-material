@@ -1,4 +1,9 @@
-# [hackettyu'snippets] function prefix words
+---
+title: function prefix words
+description: [hackettyu'snippets] 
+---
+
+> description: [hackettyu'snippets]
 
 The check searches for methods with a boolean returning value and checks then, if the name starts with one of the following words:
 * `is_`

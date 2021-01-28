@@ -1,12 +1,16 @@
-# git
+---
+title: git
+description: [hakcettyu's cheetsheet]
+---
 
-## 设置
+> description: [hakcettyu's cheetsheet]
+
+## Init
 - git --global user.name"username" `全局用户名`
 - git --global user.email "email" `全局邮箱`
 
 ## 单个
 - git init --bare `bare初始化`
-- git add .
 - git log --oneline
 - git log -p `查看提交记录`
 - git reset --hard HEAD `HEAD是文件状态`
@@ -14,6 +18,7 @@
 - git merge --no-ff -m "keep merge info" dev `保留 merge 信息`
 - git rebase dev `新合并`
 - git remote add origin https://github.com/MorvanZhou/git-demo.git
+- git commit --amend --author "New Authorname <authoremail@mydomain.com>"
 
 ## 分类
 
@@ -46,27 +51,27 @@
 - git stash pop
 - git status -s
 
-## 项目的历史代码中任意穿梭
+### 项目的历史代码中任意穿梭
 
 - 列出你在 Git 上的所有操作记录 `git reflog`
 -  找到 HEAD@{index} 前面所对应的操作索引，并使用下面命令即可 `git reset HEAD@{index}`
 
-## 想改个小东西，但代码不小心提交（commit）
+### 想改个小东西，但代码不小心提交（commit）
 
 - 添加下当前已改动的代码 `git add .`
 - 把你刚刚添加的代码合并到最后一次提交上 `git commit --amend`
 
-## 刚刚写的提交历史写得不够好，想重写一下
+### 刚刚写的提交历史写得不够好，想重写一下
 
 - 重写提交历史 `git commit --amend`
 
-## 不小心把新分支的代码提交到主分支上了
+### 不小心把新分支的代码提交到主分支上了
 
 - 先创建个新分支（some-new-branch-name）`git branch some-new-branch-name`
 - 把刚才的提交从主分支中移除 `git reset HEAD~ --hard`
 
 
-## 把代码提交到错误的分支上
+### 把代码提交到错误的分支上
 
 - 先撤销最后一次提交，但保留变更代码
 
@@ -85,11 +90,11 @@ git commit -m "your message here"
 
 ```
 
-## 提交代码
+### git pull
 
-- git pull -- rebase # rebase 可以减少 merger commit 的 log
+- git pull -- rebase `rebase 可以减少 merger commit 的 log`
 
-## git settings proxy
+### git settings proxy
 
 ``` bash
 git config --global https.proxy http://127.0.0.1:1080
@@ -106,3 +111,6 @@ npm config delete proxy
 ## Reference
 
 - [合并多个Commits](http://whatbeg.com/2017/04/01/combinecommits.html)
+- [ProGit](http://git.oschina.net/progit)
+- [Git 飞行手册](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
+- [FQA firstaidgit](http://firstaidgit.io/#/)

@@ -1,12 +1,9 @@
 ---
 title: centos 7 防火墙命令 firewall-cmd
-date: 2018-10-25 10:00:00
-category:
-    - note
-tag: 
-    - linux
-    - centos
+description: firewall-cmd 的 cheatsheet
 ---
+
+> description: firewall-cmd 的 cheatsheet
 
 ## 简介
 centos 7 和 centos 6 有不同的防火墙命令，centos 7 的是 firewall-cmd，如果没安装，安装方法如下：

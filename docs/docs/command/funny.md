@@ -1,4 +1,9 @@
-# funny
+---
+title: funny
+description: [hakcettyu's cheetsheet]
+---
+
+> description: [hakcettyu's cheetsheet]
 
 - absinthe@havoc
 

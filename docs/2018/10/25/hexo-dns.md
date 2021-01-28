@@ -1,11 +1,9 @@
 ---
 title: hexo 配置 dns 分流的问题处理
-date: 2018-10-25 12:00:00
-category:
-    - debug
-tag: 
-    - hexo
+description: 之前一直都是国外 IP 走 Github page，国内 IP 走 Coding page，但在认证 HTTPS 的时候发现了这个问题 
 ---
+
+> description: 之前一直都是国外 IP 走 Github page，国内 IP 走 Coding page，但在认证 HTTPS 的时候发现了这个问题
 
 ## 简介
 hexo 同时部署在 coding page 和 github page 后，在域名服务器设置 dns 分流后发现 coding 一直无法申请 ssl。

@@ -1,4 +1,9 @@
-# [hackettyu'snippets] markdown snippets
+---
+title: markdown snippets
+description: [hackettyu'snippets] 
+---
+
+> description: [hackettyu'snippets]
 
 ## KEYBOARD
 

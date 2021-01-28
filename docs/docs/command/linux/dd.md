@@ -1,4 +1,9 @@
-# dd
+---
+title: dd
+description: [hakcettyu's cheetsheet]
+---
+
+> description: [hakcettyu's cheetsheet]
 
 - dd if=/dev/urandom of={{随机的文件}} bs=100 count=1
 使用内核随机驱动程序生成一个 100 个随机字节的文件

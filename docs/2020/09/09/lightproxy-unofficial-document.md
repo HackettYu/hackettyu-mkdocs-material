@@ -1,6 +1,9 @@
-# LightPorxy 非官方文档
+---
+title: LightPorxy 非官方文档
+description: LightProxy 是一款基于 whistle 的本地代理抓包软件
+---
 
-> LightProxy 是一款基于 whistle 的本地代理抓包软件
+> description: LightProxy 是一款基于 whistle 的本地代理抓包软件
 
 > PS: 复制官方文档 [:doge:]
 

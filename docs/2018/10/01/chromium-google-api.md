@@ -1,11 +1,9 @@
 ---
 title: 解决 chromium 缺少 google api 密钥无法登录问题
-date: 2018-10-01 23:00:00
-category:
-    - debug 
-tag: 
-    - chromeium
+description: Ops
 ---
+
+> description: Ops
 
 管理员命令运行：
 

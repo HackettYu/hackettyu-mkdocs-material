@@ -1,5 +1,9 @@
-# shred
+---
+title: shred
+description: [hakcettyu's cheetsheet]
+---
 
+> description: [hakcettyu's cheetsheet]
 - shred {{file}}
 覆盖文件
 

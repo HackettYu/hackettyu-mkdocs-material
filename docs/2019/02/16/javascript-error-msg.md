@@ -1,11 +1,9 @@
 ---
 title: JavaScript 错误参考
-date: 2019-02-16 12:00:00
-category:
-- note
-tag:
-- JavaScript
+description: 从 MDN 拷贝下来的，Javascript 错误参考
 ---
+
+> description: 从 MDN 拷贝下来的，Javascript 错误参考
 
 ## 简介
 

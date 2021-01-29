@@ -80,6 +80,12 @@ CLASS ZCL_HTTP_RESTFUL_TEST IMPLEMENTATION.
 ENDCLASS.
 ```
 
+TCODE: SICF
+
+配置处理器清单
+
+测试
+
 ## References
 
 - https://blogs.sap.com/2013/09/16/creation-of-restful-webservice-in-sap/

@@ -37,15 +37,15 @@ typer/docs/js/custom.js
 **Code**
 
 ```html
-<div class="termy">
+    <div class="termy">
 
-```console
-$ pip install typer
----> 100%
-Successfully installed typer
-```
+    ```console
+    $ pip install typer
+    ---> 100%
+    Successfully installed typer
+    ```
 
-</div>
+    </div>
 ```
 
 **Render*

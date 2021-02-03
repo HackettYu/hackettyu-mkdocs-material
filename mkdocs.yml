@@ -44,9 +44,11 @@ theme:
     logo: logo
   favicon: assets/images/favicon.png
 
-
-# Plugins
 plugins:
+  - blog:
+    format: "(%m/%d/%y)"
+    text-align: "right"
+    folder: "/"
   # - search
   - minify:
       minify_html: true

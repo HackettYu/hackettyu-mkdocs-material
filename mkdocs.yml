@@ -31,7 +31,7 @@ theme:
   features:
     - tabs
     - navigation.tabs
-    - instant: true
+    # - instant: true
     # - search.highlight
   palette:
     scheme: preference
@@ -114,7 +114,9 @@ google_analytics:
 
 extra_css:
   - '/css/termynal.css'
+  - '/css/custom.css'
 extra_javascript:
   # baidu stat
   - '/js/baidu-stat.js'
   - '/js/termynal.js'
+  - '/js/custom.js'

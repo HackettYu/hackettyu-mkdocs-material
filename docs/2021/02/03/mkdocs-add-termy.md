@@ -48,7 +48,7 @@ typer/docs/js/custom.js
     </div>
 ```
 
-**Render*
+**Render**
 
 <div class="termy">
 

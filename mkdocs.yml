@@ -47,7 +47,7 @@ theme:
 plugins:
   - minify:
       minify_html: true
-  - blog:
+  # - blog:
 
 
 extra:

@@ -3,7 +3,7 @@ site_name: hackettyu'blog
 site_url: https://hackettyu.com
 site_author: hackettyu
 site_description: >-
-  hackettyu'blog | eat sleep code repeat
+  hackettyu'blog | hackettyu.repeat( me.eat().sleep().code() )
 # Repository
 repo_name: hackettyu/mkdocs-material
 repo_url: https://github.com/hackettyu/mkdocs-material

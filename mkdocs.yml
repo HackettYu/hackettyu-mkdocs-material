@@ -45,14 +45,14 @@ theme:
   favicon: assets/images/favicon.png
 
 plugins:
-  - blog:
-    format: "(%m/%d/%y)"
-    text-align: "right"
-    folder: "/"
-  # - search
   - minify:
       minify_html: true
-# Customization
+  - plugin:
+    - blog:
+      format: "(%m/%d/%y)"
+      text-align: "right"
+      folder: "/"
+
 extra:
   social:
     - icon: fontawesome/brands/github

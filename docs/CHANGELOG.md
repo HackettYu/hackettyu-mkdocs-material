@@ -76,6 +76,10 @@ Successfully installed typer
 
 </div>
 
+### Added
+
+```pip install mkdocs-blog-plugin```
+
 ## 关于 Changelog
 
 ### 指导原则

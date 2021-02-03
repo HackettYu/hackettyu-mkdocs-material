@@ -47,11 +47,8 @@ theme:
 plugins:
   - minify:
       minify_html: true
-  - plugin:
-    - blog:
-      format: "(%m/%d/%y)"
-      text-align: "right"
-      folder: "/"
+  - blog:
+
 
 extra:
   social:

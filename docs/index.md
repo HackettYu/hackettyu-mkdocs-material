@@ -1,5 +1,7 @@
 ## :heart: hackettyu :heart:
 
+> description: hackettyu.repeat( me.eat().sleep().code() )
+
 ``` diff
 - [2019-11-13]:[send to kindle]
 - [2019-11-13]:[OGP plugin]
@@ -22,23 +24,6 @@
 [https://github.com/HackettYu/mkdocs-material/find/master](https://github.com/HackettYu/mkdocs-material/find/master)
 
 ### Drinking
-
-=== "Wine List"
-    * 苦精酒
-    * Absinth
-    * 威士忌
-        * 百灵坛
-        * 波本
-    * 君度力娇酒
-    * 马天尼
-    * 三得利威士
-    * 三子猴子
-    * 麦卡伦 12 雪梨
-    * 杰克丹尼
-        * 单桶
-    * 单一麦芽
-        * 乐加维林
-    * 卡比利特
 
 === "Coffee List"
     **哥斯达黎加**
@@ -68,6 +53,10 @@
 
     * [X] 惠兰
 
+    **洪都拉斯**
+
+    * [X] 荔枝兰
+
 === "Beer List"
     * 树屋
 
@@ -75,13 +64,12 @@
 ### Media
 
 ===! "Podcast List"
-    * [X] FLOWCoffee
+    * [X] 捕蛇者说
     * [X] 枫言枫语
-    * [X] 随机波动
-    * [X] 疯投圈
     * [X] Teahour
     * [X] weak self
-    * [X] 捕蛇者说
+    * [X] 疯投圈
+    * [X] FLOWCoffee
 
 ### Book
 

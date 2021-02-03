@@ -58,6 +58,24 @@
 
 - meta-tags: https://squidfunk.github.io/mkdocs-material/reference/meta-tags/
 
+## [1.2.0] - 2021-02-03
+
+### Added
+
+- termynal
+
+example:
+
+<div class="termy">
+
+```console
+$ pip install typer
+---> 100%
+Successfully installed typer
+```
+
+</div>
+
 ## 关于 Changelog
 
 ### 指导原则

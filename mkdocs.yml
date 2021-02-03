@@ -112,6 +112,9 @@ google_analytics:
   - UA-146236033-1
   - auto
 
+extra_css:
+  - '/css/termynal.css'
 extra_javascript:
   # baidu stat
   - '/js/baidu-stat.js'
+  - '/js/termynal.js'

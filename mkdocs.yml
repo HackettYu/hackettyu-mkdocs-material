@@ -47,9 +47,9 @@ theme:
 plugins:
   - minify:
       minify_html: true
-  - blog:
-      text-align: "right"
-      folder: "blogs"
+  # - blog:
+  #     text-align: "right"
+  #     folder: "blogs"
 
 extra:
   social:

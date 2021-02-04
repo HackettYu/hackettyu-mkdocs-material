@@ -1,4 +1,4 @@
 setuptools
 wheel
 mkdocs-minify-plugin
-mkdocs-blog-plugin
+# mkdocs-blog-plugin

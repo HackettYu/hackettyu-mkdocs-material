@@ -47,14 +47,10 @@ theme:
 plugins:
   - minify:
       minify_html: true
-  - blog
-
-plugin:
   - blog:
-    format: "(%m/%d/%y)"
-    text-align: "right"
-    folder: "/"
-
+      format: "(%m/%d/%y)"
+      text-align: "right"
+      folder: "/"
 
 extra:
   social:

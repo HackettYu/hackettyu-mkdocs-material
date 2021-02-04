@@ -48,11 +48,9 @@ plugins:
   - minify:
       minify_html: true
   - blog:
-    - plugin:
-        - blog:
-            format: "(%m/%d/%y)"
-            text-align: "right"
-            folder: "docs"
+    format: "(%m/%d/%y)"
+    text-align: "right"
+    folder: "/"
 
 
 extra:

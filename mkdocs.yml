@@ -48,7 +48,6 @@ plugins:
   - minify:
       minify_html: true
   - blog:
-      format: "(%m/%d/%y)"
       text-align: "right"
       folder: "blogs"
 

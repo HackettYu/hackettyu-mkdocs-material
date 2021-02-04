@@ -80,6 +80,10 @@ Successfully installed typer
 
 ```pip install mkdocs-blog-plugin```
 
+### Added
+
+```pip installmkdocs-rss-plugin```
+
 ## 关于 Changelog
 
 ### 指导原则

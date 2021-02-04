@@ -32,6 +32,8 @@ theme:
     - tabs
     - navigation.tabs
     - navigation.instant
+    - navigation.sections
+    - navigation.expand
     # - search.highlight
   palette:
     scheme: preference

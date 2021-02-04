@@ -1,0 +1,60 @@
+---
+title: 用命令行工具 cloc 做代码行统计
+description: cloc 是一个统计代码行的命令行工具，虽然说应该看删除的代码行（雾）
+---
+
+> description: cloc 是一个统计代码行的命令行工具，虽然说应该看删除的代码行（雾）
+
+### Why use cloc
+
+> Why Use cloc?
+cloc has many features that make it easy to use, thorough, extensible, and portable:
+Exists as a single, self-contained file that requires minimal installation effort---just download the file and run it.
+Can read language comment definitions from a file and thus potentially work with computer languages that do not yet exist.
+Allows results from multiple runs to be summed together by language and by project.
+Can produce results in a variety of formats: plain text, SQL, XML, YAML, comma separated values.
+Can count code within compressed archives (tar balls, Zip files, Java .ear files).
+Has numerous troubleshooting options.
+Handles file and directory names with spaces and other unusual characters.
+Has no dependencies outside the standard Perl distribution.
+Runs on Linux, FreeBSD, NetBSD, OpenBSD, Mac OS X, AIX, HP-UX, Solaris, IRIX, and z/OS systems that have Perl 5.6 or higher. The source version runs on Windows with either ActiveState Perl, Strawberry Perl, Cygwin, or MobaXTerm+Perl plugin. Alternatively on Windows one can run the Windows binary which has no dependencies.
+
+---
+
+### cloc quick-start
+
+- [cloc | quick-start](https://github.com/AlDanial/cloc#quick-start-)
+
+```bash
+$ cloc cloc/
+     465 text files.
+     427 unique files.
+     251 files ignored.
+
+http://cloc.sourceforge.net v 1.64  T=1.72 s (240.3 files/s, 16069.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           234           2277           1889          10399
+Javascript                       9            122            175           2756
+JSP                             33            176             65           2313
+HTML                            18            164             24           2001
+Python                          57            441            712           1468
+C++                             12             14             15            984
+XML                             39            109             75            801
+Bourne Shell                     2             42             44            258
+DOS Batch                        4             51              4            134
+CSS                              2             20             31             59
+JSON                             2              0              0             22
+Groovy                           2              7             15             20
+-------------------------------------------------------------------------------
+SUM:                           414           3423           3049          21215
+-------------------------------------------------------------------------------
+```
+
+---
+
+### 参考
+
+- [cloc | github releases](https://github.com/AlDanial/cloc/releases)
+- [cloc | sourceforge](http://cloc.sourceforge.net/)

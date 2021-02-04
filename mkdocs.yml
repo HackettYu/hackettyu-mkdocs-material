@@ -50,7 +50,7 @@ plugins:
   - blog:
       format: "(%m/%d/%y)"
       text-align: "right"
-      folder: "/"
+      folder: "blogs"
 
 extra:
   social:

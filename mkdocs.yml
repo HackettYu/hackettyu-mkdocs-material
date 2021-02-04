@@ -31,7 +31,7 @@ theme:
   features:
     - tabs
     - navigation.tabs
-    # - instant: true
+    - navigation.instant
     # - search.highlight
   palette:
     scheme: preference
@@ -50,6 +50,16 @@ plugins:
   # - blog:
   #     text-align: "right"
   #     folder: "blogs"
+  - rss:
+    abstract_chars_count: 160
+    date_from_meta:
+      as_creation: "date"
+      as_update: false
+      datetime_format: "%Y-%m-%d %H:%M"
+    feed_ttl: 1440
+    image: ""
+    length: 20
+    pretty_print: false
 
 extra:
   social:

@@ -3,25 +3,32 @@
 ## Coding Software
 
 - Visual Studio Code
-- Chrome Edge
+- Chrome / Safari
 
 ## Gear
 
 - Flico minimal 61
 - Logic MX Master 2S
 - Bose QC 30
-
-## Extentions
-
-> send to kindle: https://pushtokindle.fivefilters.org/send.php?url=hackettyu.com
+- Macbook pro M1
 
 ## Command line tools 
 
-- rg: https://hackettyu.com/docs/command/tools/rg/
-- fd: https://hackettyu.com/docs/command/tools/fd/
-- pandoc: https://hackettyu.com/docs/command/tools/pandoc/
-- z: https://hackettyu.com/docs/command/tools/z/
-- aria2: https://hackettyu.com/docs/command/tools/aria2/
-- jq: https://hackettyu.com/docs/command/tools/jq/
-- you-get
-- ffmpeg: https://hackettyu.com/docs/command/tools/ffmepg/
+- rg: https://github.com/BurntSushi/ripgrep
+- fd: https://github.com/sharkdp/fd
+- pandoc: https://pandoc.org
+- z.lua: https://github.com/skywind3000/z.lua
+- aria2: https://github.com/aria2/aria2
+- jq: https://github.com/stedolan/jq
+- ffmpeg: https://ffmpeg.org/
+- htop: https://github.com/htop-dev/htop
+
+## Terminal
+
+- zsh: https://www.zsh.org/
+- starship: https://www.spacex.com/vehicles/starship/
+
+## service
+
+- netdata: https://github.com/netdata/netdata
+- gogs: https://github.com/gogs/gogs

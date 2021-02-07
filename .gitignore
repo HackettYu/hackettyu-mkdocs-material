@@ -1,3 +1,7 @@
 images/
 writing/
+draft/
+backup/
+
 .pytest_cache/
+.vscode/

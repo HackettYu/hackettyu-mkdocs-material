@@ -1,3 +1,0 @@
-# Your Book Title
-
-- Imgs

@@ -4,4 +4,4 @@ draft/
 backup/
 
 .pytest_cache/
-.vscode/
+*.DS_Store

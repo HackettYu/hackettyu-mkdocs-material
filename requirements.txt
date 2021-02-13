@@ -2,4 +2,4 @@ setuptools
 wheel
 mkdocs-rss-plugin
 mkdocs-minify-plugin
-# mkdocs-blog-plugin
+mkdocs-git-revision-date-plugin

@@ -152,7 +152,3 @@
 > https://hackettyu.com/feed_rss_created.xml
 
 > https://hackettyu.com/feed_rss_updated.xml
-
-### TODO
-
-- [ ] Add support rss

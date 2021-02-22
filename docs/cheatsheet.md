@@ -85,3 +85,9 @@
 ```txt
 199.232.68.133 raw.githubusercontent.com
 ```
+
+## API
+
+**IP**
+
+ - http://myip.ipip.net

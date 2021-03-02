@@ -84,6 +84,13 @@ Successfully installed typer
 
 ```pip installmkdocs-rss-plugin```
 
+## scripts
+
+```bash
+# create nav
+cd docs &&  python ..\scripts\navgen.py tree --path .
+```
+
 ## 关于 Changelog
 
 ### 指导原则

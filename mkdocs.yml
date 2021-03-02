@@ -303,7 +303,7 @@ nav:
         javascript-url: docs/template/javascript/url.md
         javascript-uuid: docs/template/javascript/uuid.md
         javascript-voice: docs/template/javascript/voice.md
-      sql-get-data-table-create-structure: docs/template/sql/get-data-table-create-structure.md
+        sql-get-data-table-create-structure: docs/template/sql/get-data-table-create-structure.md
     - via:   
         LGTM: docs/via/LGTM.md
         bilibili-rex: docs/via/bilibili-rex.md

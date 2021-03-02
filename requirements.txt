@@ -3,3 +3,4 @@ wheel
 mkdocs-rss-plugin
 mkdocs-minify-plugin
 mkdocs-git-revision-date-plugin
+mkdocs-redirects

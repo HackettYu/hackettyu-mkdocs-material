@@ -179,11 +179,11 @@ nav:
       docs-note-one-python-craftsman-note: docs/note/one-python-craftsman-note.md
       docs-note-ubuntu: docs/note/ubuntu.md
     - books:
-      奈飞文化手册: docs/books/奈飞文化手册.md
-      子弹笔记: docs/books/子弹笔记.md
-      手工咖啡：咖啡爱好者的完美冲煮指南: docs/books/手工咖啡：咖啡爱好者的完美冲煮指南.md
-      掌控习惯: docs/books/掌控习惯.md
-      黑客与画家: docs/books/黑客与画家.md
+      "奈飞文化手册": "docs/books/奈飞文化手册.md"
+      "子弹笔记": "docs/books/子弹笔记.md"
+      "手工咖啡：咖啡爱好者的完美冲煮指南": "docs/books/手工咖啡：咖啡爱好者的完美冲煮指南.md"
+      "掌控习惯": "docs/books/掌控习惯.md"
+      "黑客与画家": "docs/books/黑客与画家.md"
     - command:
       bash-cheatsheet: docs/command/bash-cheatsheet.md
       cmd-about-wifi: docs/command/cmd/about-wifi.md

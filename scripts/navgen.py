@@ -35,7 +35,7 @@ def tree(
         list(
             map(
                 lambda x:
-                    x.__str__().replace(SYSTEM_REPALCE_FRAMENT, '-').replace('.md', '') + ': ' + x.__str__(),  # noqa
+                    x.__str__() + ': ' + x.__str__().replace(SYSTEM_REPALCE_FRAMENT, '-'),  # noqa
                 list(
                     filter(
                         lambda x:

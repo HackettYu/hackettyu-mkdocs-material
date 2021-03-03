@@ -1,6 +1,7 @@
 ---
 title: 让 console 的例子动起来，mkdocs 添加 termynal 支持
 description: 最近在看 typer 的文档时候看到 typer 的文档也是用的 mkdocs，但发现文档里 console 是带进度条的
+redirect: 2021-02-03-mkdocs-add-termy
 ---
 
 > description: 最近在看 typer 的文档时候看到 typer 的文档也是用的 mkdocs，但发现文档里 console 是带进度条的

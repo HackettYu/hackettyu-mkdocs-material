@@ -1,6 +1,7 @@
 ---
 title: 给 hexo 博客添加 OGP 支持
 description: 最近了解到有一种预览网址的协议叫 [OGP](https://ogp.me/)，想在 hexo 博客里添加，找到了这个[插件](https://github.com/minamo173/hexo-tag-link-preview)
+redirect: 2019-10-30-hexo-ogp
 ---
 
 > description: 最近了解到有一种预览网址的协议叫 [OGP](https://ogp.me/)，想在 hexo 博客里添加，找到了这个[插件](https://github.com/minamo173/hexo-tag-link-preview)

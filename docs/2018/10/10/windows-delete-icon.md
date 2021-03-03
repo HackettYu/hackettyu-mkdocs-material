@@ -1,6 +1,7 @@
 ---
 title: 删除 Windows 下磁盘多余的图标
 description: 已经买 mac
+redirect: 2018-10-10-windows-delete-icon
 ---
 
 > description: 已经买 mac

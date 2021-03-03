@@ -1,6 +1,7 @@
 ---
 title: hexo 配置 dns 分流的问题处理
-description: 之前一直都是国外 IP 走 Github page，国内 IP 走 Coding page，但在认证 HTTPS 的时候发现了这个问题 
+description: 之前一直都是国外 IP 走 Github page，国内 IP 走 Coding page，但在认证 HTTPS 的时候发现了这个问题
+redirect: 2018-10-25-hexo-dns
 ---
 
 > description: 之前一直都是国外 IP 走 Github page，国内 IP 走 Coding page，但在认证 HTTPS 的时候发现了这个问题

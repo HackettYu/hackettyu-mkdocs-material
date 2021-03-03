@@ -1,6 +1,7 @@
 ---
 title: windows git bash 配置终端主题
 description: 意外发现 git bash 里自带跳转到一个配置终端主题颜色的 Web
+redirect: 2018-12-02-windows-git-bash
 ---
 
 > description: 意外发现 git bash 里自带跳转到一个配置终端主题颜色的 Web

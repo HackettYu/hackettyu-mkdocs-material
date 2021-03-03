@@ -1,6 +1,7 @@
 ---
 title: Windows 下使用 Scoop 安装环境以及各种软件
 description: 想实现只用脚本的情况下同步一台 Windows PC 的开发环境（安装各种开发中工具）
+redirect: 2020-05-07-windows-scoop
 ---
 
 > description: 想实现只用脚本的情况下同步一台 Windows PC 的开发环境（安装各种开发中工具）

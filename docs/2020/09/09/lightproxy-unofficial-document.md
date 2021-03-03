@@ -1,6 +1,7 @@
 ---
 title: LightPorxy 非官方文档
 description: LightProxy 是一款基于 whistle 的本地代理抓包软件
+redirect: 2020-09-09-lightproxy-unofficial-document
 ---
 
 > description: LightProxy 是一款基于 whistle 的本地代理抓包软件

@@ -1,6 +1,7 @@
 ---
 title: ABAP code indentation
 description: ABAP 代码缩进风格参考
+redirect: 2020-08-20-ABAP-code-indent
 ---
 
 > description: ABAP 代码缩进风格参考

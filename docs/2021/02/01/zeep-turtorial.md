@@ -2,6 +2,7 @@
 title: Python SOAP client zeep 使用指南
 description: Zeep 是一个 Python SOAP client. |
              使用 SOAP client 能更好解析 WebService 的 WSDL(Schema)，当然 HTTP 一般情况下都会比 SOAP client 快
+redirect: 2021-02-01-zeep-turtorial
 ---
 
 ## Why use zeep?

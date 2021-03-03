@@ -1,6 +1,7 @@
 ---
 title: 聊一聊 Python enum 的使用
 description: 呃，这个 enum...
+redirect: 2020-11-02-python-enum
 ---
 
 > description: 呃，这个 enum...

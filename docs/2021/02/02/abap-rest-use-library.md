@@ -1,6 +1,7 @@
 ---
 title: ABAP 使用 CL_REST_LIBRARY 实现 RESTful 接口
 description: CL_REST_LIBRARY 是 SAP 官方提供的实现类
+redirect: 2021-02-02-abap-rest-use-library
 ---
 
 > description: CL_REST_LIBRARY 是 SAP 官方提供的实现类

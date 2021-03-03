@@ -1,6 +1,7 @@
 ---
 title: ABAP 创建 RESTful 接口
 description: 实现 IF_HTTP_EXTENSION 接口即可
+redirect: 2021-01-25-abap-rest-interface
 ---
 
 > description: 实现 IF_HTTP_EXTENSION 接口即可

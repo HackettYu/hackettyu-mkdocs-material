@@ -1,6 +1,7 @@
 ---
 title: SSH 登录时出现如下错误：Disconnected:No supported authentication methods available
 description: 这个问题应该在新买的服务器上都会遇到这个（我买的时 digitalocean） 
+redirect: 2018-11-13-ssh-login
 ---
 
 > description: 这个问题应该在新买的服务器上都会遇到这个（我买的时 digitalocean）

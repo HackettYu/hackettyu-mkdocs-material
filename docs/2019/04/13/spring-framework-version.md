@@ -1,6 +1,7 @@
 ---
 title: 利用 Github API 获取 spring-framework 所有版本更新信息
 description: 简单尝试下使用 Github API 获取一个仓库的版本信息，然后用 marked.js 简单渲染成 html
+redirect: 2019-04-13-spring-framework-version
 ---
 
 > description: 简单尝试下使用 Github API 获取一个仓库的版本信息，然后用 marked.js 简单渲染成 html

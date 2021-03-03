@@ -1,6 +1,7 @@
 ---
 title: 用命令行操作 window 显卡
 description: 有时候想关闭 Navida 的独立显卡，但是感觉去控制板里面点有点无聊，找了一个 trick 的方式
+redirect: 2018-10-04-command-close-nvida
 ---
 
 > description: 有时候想关闭 Navida 的独立显卡，但是感觉去控制板里面点有点无聊，找了一个 trick 的方式

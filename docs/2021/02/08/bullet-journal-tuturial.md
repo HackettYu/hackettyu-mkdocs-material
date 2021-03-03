@@ -1,6 +1,7 @@
 ---
 title: Bullet journal guide for the programmer | 写给程序员的子弹笔记指南
 description: 写给程序员的子弹笔记指南
+redirect: 2021-02-08-bullet-journal-tuturial
 ---
 
 ## Basic | 基础

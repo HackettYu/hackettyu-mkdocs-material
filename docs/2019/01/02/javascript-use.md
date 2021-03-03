@@ -1,6 +1,7 @@
 ---
 title: JavaScript 作用域问题
 description: 作用域不同语言的答案不一样
+redirect: 2019-01-02-javascript-use
 ---
 
 > description: 作用域不同语言的答案不一样

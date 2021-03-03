@@ -1,6 +1,7 @@
 ---
 title: 一个 java swap 函数关于值传递与引用
 description: 关于值传递与引用，我还是通过这个实践才真正理解
+redirect: 2018-10-18-java-swap-function
 ---
 
 > description: 关于值传递与引用，我还是通过这个实践才真正理解

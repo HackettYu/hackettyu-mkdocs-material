@@ -1,6 +1,7 @@
 ---
 title: Awesome command line slide | 命令行介绍幻灯片
 description: 一个关于 command line 的 slide
+redirect: 2020-09-14-awosome-command-line-slide
 ---
 
 > description: 一个关于 command line 的 slide

@@ -1,6 +1,7 @@
 ---
 title: 给 hexo 添加 send to kindle 链接
 description: 看到一个[博客](https://blog.lilydjwg.me/2019/8/16/gh-check.214730.html)里面有一个添加了 send to kindle 链接，准备在自己 hexo 博客中也搞一个
+redirect: 2019-11-04-hexo-kindle
 ---
 
 > description: 看到一个[博客](https://blog.lilydjwg.me/2019/8/16/gh-check.214730.html)里面有一个添加了 send to kindle 链接，准备在自己 hexo 博客中也搞一个

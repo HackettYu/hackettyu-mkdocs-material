@@ -1,6 +1,7 @@
 ---
 title: linux ln 命令之硬链接和软连接
 description: 知识点：硬链接和软连接，在做 dotfile 备份时看到的
+redirect: 2018-10-06-linux-ln
 ---
 
 > description: 知识点：硬链接和软连接，在做 dotfile 备份时看到的

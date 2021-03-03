@@ -1,6 +1,7 @@
 ---
 title: Cannot find one or more componets. Please reinstall the application
 description: Cannot find one or more componets. Please reinstall the application
+redirect: 2018-12-15-wtf
 ---
 
 > description: 奇葩问题：Cannot find one or more componets. Please reinstall the application

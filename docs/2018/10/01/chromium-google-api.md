@@ -1,6 +1,7 @@
 ---
 title: 解决 chromium 缺少 google api 密钥无法登录问题
 description: Ops
+redirect: 2018-10-01-chromium-google-api
 ---
 
 > description: Ops

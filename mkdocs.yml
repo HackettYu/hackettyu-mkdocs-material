@@ -318,16 +318,16 @@ markdown_extensions:
 
 nav:
   - 2018:
-      2018-09-13-ubuntu-board: 2018/09/13/ubuntu-board.md
-      2018-09-27-code-cloc: 2018/09/27/code-cloc.md
-      2018-10-01-chromium-google-api: 2018/10/01/chromium-google-api.md
-      2018-10-04-command-close-nvida: 2018/10/04/command-close-nvida.md
-      2018-10-04-powershell-upper: 2018/10/04/powershell-upper.md
-      2018-10-06-linux-ln: 2018/10/06/linux-ln.md
-      2018-10-10-windows-delete-icon: 2018/10/10/windows-delete-icon.md
-      2018-10-18-java-swap-function: 2018/10/18/java-swap-function.md
-      2018-10-25-firewall-cmd: 2018/10/25/firewall-cmd.md
-      2018-10-25-hexo-dns: 2018/10/25/hexo-dns.md
+      "解决 Ubuntu 16.04 没有 「在打字时停用触摸板」选项": 2018/09/13/ubuntu-board.md
+      "用命令行工具 cloc 做代码行统计": 2018/09/27/code-cloc.md
+      "解决 chromium 缺少 google api 密钥无法登录问题": 2018/10/01/chromium-google-api.md
+      "用命令行操作 window 显卡": 2018/10/04/command-close-nvida.md
+      "命令行下 powershell 提权": 2018/10/04/powershell-upper.md
+      "linux ln 命令之硬链接和软连接": 2018/10/06/linux-ln.md
+      "删除 Windows 下磁盘多余的图标": 2018/10/10/windows-delete-icon.md
+      "一个 java swap 函数关于值传递与引用": 2018/10/18/java-swap-function.md
+      "centos 7 防火墙命令 firewall-cmd": 2018/10/25/firewall-cmd.md
+      "hexo 配置 dns 分流的问题处理": 2018/10/25/hexo-dns.md
       2018-11-13-ssh-login: 2018/11/13/ssh-login.md
       2018-12-02-windows-git-bash: 2018/12/02/windows-git-bash.md
       2018-12-15-switch-eclipse-version: 2018/12/15/switch-eclipse-version.md
@@ -532,6 +532,22 @@ nav:
       weekly-2021-02-0x02: weekly/weekly-2021-02-0x02.md
       weekly-2021-02-0x03: weekly/weekly-2021-02-0x03.md
       weekly-2021-02-0x04: weekly/weekly-2021-02-0x04.md
+  - test:
+      weekly/weekly-2020-10-0x01.md
+      weekly/weekly-2020-10-0x02.md
+      weekly/weekly-2020-11-0x01.md
+      weekly/weekly-2020-11-0x02.md
+      weekly/weekly-2020-11-0x03.md
+      weekly/weekly-2020-11-0x04.md
+      weekly/weekly-2020-12-0x01.md
+      weekly/weekly-2020-12-0x02.md
+      weekly/weekly-2020-12-0x03.md
+      weekly/weekly-2021-01-0x01.md
+      weekly/weekly-2021-01-0x02.md
+      weekly/weekly-2021-02-0x01.md
+      weekly/weekly-2021-02-0x02.md
+      weekly/weekly-2021-02-0x03.md
+      weekly/weekly-2021-02-0x04.md
 
 google_analytics:
   - UA-146236033-1

@@ -71,7 +71,9 @@ extra:
     - icon: fontawesome/brands/spotify
       link: spotify:user:12glou9s4691jdz6arkbb8zmn
     - icon: fontawesome/solid/rss
-      link: https://hackettyu.substack.com
+      link: https://hackettyu.com/feed_rss_created.xml
+    - icon: fontawesome/solid/rss
+      link: https://hackettyu.com/feed_rss_updated.xml
 # Extensions
 markdown_extensions:
   - meta

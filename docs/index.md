@@ -2,6 +2,25 @@
 
 > description: hackettyu.repeat( me.eat().sleep().code() )
 
+## ABOUT ME
+
+**Technology stack**
+
+> Talk is cheap, show me the code.
+
+Language: ABAP\Python\JavasScript
+
+> What I cannot create, I do not understand.
+
+- [ ] Awesome CLI
+- [ ] Data mock server
+
+> Know how to solve every problem that has been solved.
+
+- Reading
+
+## CHANGELOG
+
 ``` diff
 - [2019-11-13]:[send to kindle]
 - [2019-11-13]:[OGP plugin]
@@ -32,9 +51,9 @@
      
     **也门**
 
-    * [ ] 玛塔里
+    * [X] 妮娅
     * [ ] 乌黛妮
-
+ 
     **埃塞尔比亚**
 
     * [X] 耶加雪菲 歌希 日晒
@@ -74,7 +93,7 @@
 ### Book
 
 === "Book List"
-    **2021**
+    **2020 done**
 
     - [x] 香港第一课                   2020-02-02
     - [x] 编程珠玑-续                  2020-03-02
@@ -91,8 +110,14 @@
     - [X] 软件设计的哲学
     - [X] 黑客与画家 2020-10-31
     - [X] 手工咖啡 2020-11-31
+
+    **In process**
+
+    - [ ] 混乱的猴子   
+
+    **TODO**
+
     - [ ] SICP Python 实现
-    - [ ] 混乱的猴子                 
     - [ ] 数据库系统内幕
     - [ ] Cpython internal
     - [ ] 了不起的我
@@ -145,10 +170,14 @@
 
 ### Newsletter
 
-> https://hackettyu.substack.com
+> Substack is a place for independent writing. Subscribe directly to writers you trust.
+
+[This my substack](https://hackettyu.substack.com)
 
 ### RSS
 
-> https://hackettyu.com/feed_rss_created.xml
+> Power by: https://pypi.org/project/mkdocs-rss-plugin/
 
-> https://hackettyu.com/feed_rss_updated.xml
+This is [created](https://hackettyu.com/feed_rss_created.xml)
+
+This is [updated](https://hackettyu.com/feed_rss_updated.xml)

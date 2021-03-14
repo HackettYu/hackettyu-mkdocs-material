@@ -1,5 +1,5 @@
 ---
-title: JavaScript 错误参考
+title: JavaScript 错误参考（转载）
 description: 从 MDN 拷贝下来的，Javascript 错误参考
 redirect: 2019-02-16-javascript-error-msg
 ---

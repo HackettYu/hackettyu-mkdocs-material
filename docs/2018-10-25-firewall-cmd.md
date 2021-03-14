@@ -1,5 +1,5 @@
 ---
-title: centos 7 防火墙命令 firewall-cmd
+title: 关于 CentOS 7 新的防火墙命令 firewall-cmd
 description: firewall-cmd 的 cheatsheet
 redirect: 2018-10-25-firewall-cmd
 ---

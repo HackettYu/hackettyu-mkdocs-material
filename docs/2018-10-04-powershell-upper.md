@@ -1,5 +1,5 @@
 ---
-title: 命令行下 powershell 提权
+title: 在命令行下使用 Powershell 提权
 description: windows 下 powershell 没有 sudo 命令，每次需要管理员权限的时候都需要按 <WIN + X>
 redirect: 2018-10-04-powershell-upper
 ---

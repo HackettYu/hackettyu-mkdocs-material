@@ -1,5 +1,5 @@
 ---
-title: 命令行下打开 Visual Studio Code
+title: 命令行下切换当前 workplace 到 Visual Studio Code
 description: 命令行下 <code> 命令可以直接打开 VSCode，只要添加环境变量就行了
 redirect: 2020-03-20-vscode-diff
 ---

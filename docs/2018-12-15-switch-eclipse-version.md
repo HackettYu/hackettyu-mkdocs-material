@@ -1,5 +1,5 @@
 ---
-title: 切换 eclipse 编译 Java 版本
+title: Eclipse 下切换编译 Java 版本
 description: 不同版本 JDK 编译是不同的
 redirect: 2018-12-15-switch-eclipse-version
 ---

@@ -1,5 +1,5 @@
 ---
-title: 解决 Chrome 第三方扩展安装的问题
+title: 利用 policy whitelist 解决 Chrome 第三方扩展安装的问题
 description: Chrome 在后面新的版本不支持第三方扩展了，这使得我自己去下载一些开发者的扩展安装时有点感到不方便，`百度经验`上到多数都是用开发者模式的方法安装，其实最完美的方法是 policy whitelist
 redirect: 2019-09-16-chrome-extention
 ---

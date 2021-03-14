@@ -1,5 +1,5 @@
 ---
-title: Bullet journal guide for the programmer | 写给程序员的子弹笔记指南
+title: 写给程序员的子弹笔记指南 ｜ Bullet journal guide for the programmer
 description: 写给程序员的子弹笔记指南
 redirect: 2021-02-08-bullet-journal-tuturial
 ---
@@ -15,6 +15,8 @@ redirect: 2021-02-08-bullet-journal-tuturial
 - Task: •
 - Notes: ⁃
 - Event: ○
+
+这里其实也可以使用 HTML 符号编码转译下，我是用 Mac 系统下自带的特定字符敲出来的
 
 **Tasks**
 

@@ -22,7 +22,8 @@ jobs:
       
       - name: Deploy docs
         uses: 
-          mhausenblas/mkdocs-deploy-gh-pages@master
+          # TODO: fix the lastest version
+          mhausenblas/mkdocs-deploy-gh-pages@1.16
         # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
         env:
           GITHUB_TOKEN: 
@@ -30,4 +31,3 @@ jobs:
           CUSTOM_DOMAIN: 
             hackettyu.com
           REQUIREMENTS: requirements.txt
-          

@@ -13,14 +13,14 @@ redirect: 2020-05-07-windows-scoop
 
 ### scoop 安装
 
-安装 scoop 前提 Permalink 版本大于等于 3 的 powershell
+首先，我们需要先确认 powershell 的版本，安装 scoop 前提 Permalink 版本大于等于 3 的 powershell
 
 ```poershell
 $psversiontable.psversion.**major**
 5
 ```
 
-确保您已允许 PowerShell 执行本地脚本
+然后，确保您已允许 PowerShell 执行本地脚本
 
 ```powershell
 set-executionpolicy remotesigned -scope currentuser
@@ -69,16 +69,21 @@ scoop bucket add java
 ### scoop 常用命令使用
 
 ```powershell
-#查看某软件执行命令位置
-# scoop which {{name}}
-#搜索某软件
-# scoop search {{name}}
-#打开某软件官网
-# scoop home {{name}}
+# 查看某软件执行命令位置
+scoop which {{name}}
+
+# 搜索某软件
+scoop search {{name}}
+
+# 打开某软件官网
+
+scoop home {{name}}
+
 # 检查潜在的问题
-# scoop checkup
+scoop checkup
+
 # 查看状态
-# scoop status
+scoop status
 ```
 
 ### scoop 安装我在使用的软件
@@ -103,13 +108,17 @@ scoop install python # test: python pip
 scoop install go
 
 # java
-# scoop bucket add java
+scoop bucket add java
+
 # install java lastest openjdk
 scoop install openjdk 
+
 # 如果你想使用 jdk8 你可以使用 openjdk 的发行版本
-# scoop install adopt8-upstream
+scoop install adopt8-upstream
+
 # 切换到 jk8, 默认只会使用最后一次安装的版本
-# scoop reset adopt8-upstream
+scoop reset adopt8-upstream
+
 java -version
 # 目前在 scoop java bucket 里的 jdk 版本
 chrome https://github.com/ScoopInstaller/Java/tree/master/bucket
@@ -163,6 +172,7 @@ scoop config proxy 127.0.0.1:{{port}} # 启用 http 代理参考 windows 代理�
 # 端口在 win10 设置里的代理设置
 # 好像不支持 sock5
 scoop config proxy 127.0.0.1:{{port}}
+
 # delete
 scoop config rm proxy
 ```
@@ -206,7 +216,7 @@ https://raw.githubusercontent.com/lukesampson/scoop-extras/master/scripts/vscode
     dir=C:\Users\hasee\scoop\cache
     out=vscode-portable#1.44.2#https_raw.githubusercontent.com_lukesampson_scoop-extras_master_scripts_vscode-uninstall-context.reg
 
-ERROR & 'C:\Users\hasee\scoop\apps\aria2\current\aria2c.exe' --input-file='C:\Users\hasee\scoop\cache\vscode-portable.txt' --user-agent='Scoop/1.0 (+http://scoop.sh/) PowerShell/5.1 (Windows NT 10.0; Win64; x64; Desktop)' --allow-overwrite=true --auto-file-renaming=false --retry-wait=2 --split=5 --max-connection-per-server=5 --min-split-size=5M --console-log-level=warn --enable-color=false --no-conf=true --follow-metalink=true --metalink-preferred-protocol=https --min-tls-version=TLSv1.2 --stop-with-process=12884 --continue --all-proxy='127.0.0.1:1080'
+ERROR & 'C:\Users\{{you}}\scoop\apps\aria2\current\aria2c.exe' --input-file='C:\Users\{{you}}\scoop\cache\vscode-portable.txt' --user-agent='Scoop/1.0 (+http://scoop.sh/) PowerShell/5.1 (Windows NT 10.0; Win64; x64; Desktop)' --allow-overwrite=true --auto-file-renaming=false --retry-wait=2 --split=5 --max-connection-per-server=5 --min-split-size=5M --console-log-level=warn --enable-color=false --no-conf=true --follow-metalink=true --metalink-preferred-protocol=https --min-tls-version=TLSv1.2 --stop-with-process=12884 --continue --all-proxy='127.0.0.1:1080'
 
 Please try again or create a new issue by using the following link and paste your console output:
 https://github.com/lukesampson/scoop-extras/issues/new?title=vscode-portable%401.44.2%3a+download+via+aria2+failed
@@ -218,7 +228,7 @@ https://github.com/lukesampson/scoop-extras/issues/new?title=vscode-portable%401
 PS C:\WINDOWS\system32> scoop checkup
 WARN  Windows Defender may slow down or disrupt installs with realtime scanning.
   Consider running:
-    sudo Add-MpPreference -ExclusionPath 'C:\Users\hasee\scoop'
+    sudo Add-MpPreference -ExclusionPath 'C:\Users\{{you}}\scoop'
   (Requires 'sudo' command. Run 'scoop install sudo' if you don't have it.)
 WARN  Windows Defender may slow down or disrupt installs with realtime scanning.
   Consider running:
@@ -309,6 +319,7 @@ scoop install dodorz/wechat
 ## 使用 DISM++ 检查 WIN10 环境
 
 ```powershell
+# 现在 scoop 安装 Dism
 # 扫描全部系统文件并和官方系统文件对比，扫描计算机中的不一致情况
 Dism /Online /Cleanup-Image /ScanHealth
 # 这条命令必须在前一条命令执行完以后，发现系统文件有损坏时使用
@@ -318,12 +329,6 @@ DISM /Online /Cleanup-image /RestoreHealth
 # 完成重启后
 sfc /SCANNOW
 ```
-
-## PWA
-
-NOTION
-ROAM
-Todolist
 
 ## VSCode extensions
 
@@ -364,36 +369,6 @@ Extensions are installed in a per user extensions folder. Depending on your plat
 - Windows %USERPROFILE%\.vscode\extensions
 - macOS ~/.vscode/extensions
 - Linux ~/.vscode/extensions
-
-## Chrome extensions
-
-/TODO
-
-## download
-
-- edge
-- wechat
-- 坚果云
-
-## windows app store
-
-spotify
-Trello
-ubunto wsl
-
-## yarn
-
-```bash
-yarn add hexo
-```
-
-## pip
-
-/TODO
-
-## npm
-
-/TODO
 
 ## 安装 WSl
 

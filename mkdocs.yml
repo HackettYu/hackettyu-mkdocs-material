@@ -153,6 +153,7 @@ nav:
       "ABAP REST 工具库 CL_REST_LIBRARY ｜ ABAP 使用 CL_REST_LIBRARY 实现 RESTful 接口": 2021-02-02-abap-rest-use-library.md
       "让博客里的 Terminal 的例子动起来，给 Mkdocs 添加 termynal 支持": 2021-02-03-mkdocs-add-termy.md
       "写给程序员的子弹笔记指南 ｜ Bullet journal guide for the programmer": 2021-02-08-bullet-journal-tuturial.md
+      "SAP JCo 例子 | SAP Java Connector 参考": 2021-03-31-SAP-JCo-example.md
   - docs:
     - others:
         archives-ABAP-guide-zh: docs/archives/ABAP-guide-zh.md

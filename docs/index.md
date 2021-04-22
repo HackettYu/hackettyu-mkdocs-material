@@ -96,36 +96,33 @@ Language: ABAP\Python\JavasScript
     **2020 done**
 
     - [x] 香港第一课                   2020-02-02
-    - [x] 编程珠玑-续                  2020-03-02
-    - [x] Effective Java 中文版第二版  2020-03-12
-    - [x] 数据密集型应用系统设计        2020-03-15
+    - [x] *编程珠玑-续                  2020-03-02
+    - [x] *Effective Java 中文版第二版  2020-03-12
+    - [x] *数据密集型应用系统设计        2020-03-15
     - [x] 奈飞文化手册                 2020-03-20
     - [x] 只是为了好玩                 2020-04-10
     - [x] 原子习惯                     2020-04-16
     - [X] 子弹笔记                     2020-06-18
     - [X] 大教堂与集市                 2020-08-02
     - [X] 永久档案                     
-    - [X] SRE: Google 运维解密         
+    - [X] *SRE: Google 运维解密         
     - [X] Pro-Git
     - [X] 软件设计的哲学
     - [X] 黑客与画家 2020-10-31
     - [X] 手工咖啡 2020-11-31
-
-    **In process**
-
-    - [ ] 混乱的猴子   
+    - [X] 混乱的猴子 2021-04-01   
 
     **TODO**
 
     - [ ] SICP Python 实现
-    - [ ] 数据库系统内幕
+    - [ ] *数据库系统内幕
     - [ ] Cpython internal
     - [ ] 了不起的我
     - [ ] 纸知识
     - [ ] 复杂生命的起源
-    - [ ] BPF 之巅
-    - [ ] 咖啡冲煮科学
-    - [ ] 咖啡豆科学
+    - [ ] *BPF 之巅
+    - [ ] *咖啡冲煮科学
+    - [ ] *咖啡豆科学
     - [ ] 自由软件，自由社会
     - [ ] Software Engineering at Google
     - [ ] The Effective Engineer
@@ -133,9 +130,7 @@ Language: ABAP\Python\JavasScript
 === "Just List"
 
     ```diff
-    + 酒吧长谈
     + 巴黎烧了吗
-    + 统计陷阱
     + Erlang 程序设计
     + 英语在用--剑桥初级英语语法（英文版）
     + 流式系统
@@ -147,7 +142,7 @@ Language: ABAP\Python\JavasScript
     + 共同的底线
     + 日本色气
     + RUST 权威指南
-    + 数据库系统内幕
+    + *数据库系统内幕
     + 把自己作为方法
     + 重做
     + 每周工作4小时
@@ -155,7 +150,6 @@ Language: ABAP\Python\JavasScript
     + UNIX 传奇历史与回忆
     + 这才是我想要的工作
     + 若为自由故
-    + 世界咖啡地图
     ```
 
 === "English"

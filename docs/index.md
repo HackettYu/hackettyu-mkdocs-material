@@ -142,7 +142,6 @@ Language: ABAP\Python\JavasScript
     + 共同的底线
     + 日本色气
     + RUST 权威指南
-    + *数据库系统内幕
     + 把自己作为方法
     + 重做
     + 每周工作4小时

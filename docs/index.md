@@ -59,7 +59,8 @@ Language: ABAP\Python\JavasScript
     * [X] 耶加雪菲 歌希 日晒
     * [X] 耶加雪菲 歌希 水洗
     * [ ] 耶加雪菲 草莓优格
-    
+    * [X] 瑰夏
+     
     **肯尼亚**
 
     * [X] 吉缇图 水洗
@@ -75,6 +76,12 @@ Language: ABAP\Python\JavasScript
     **洪都拉斯**
 
     * [X] 荔枝兰
+
+    **云南**
+
+    * [X] 保山 云裳
+
+    **拼配**
 
 === "Beer List"
     * 树屋
@@ -126,7 +133,8 @@ Language: ABAP\Python\JavasScript
     - [ ] 自由软件，自由社会
     - [ ] Software Engineering at Google
     - [ ] The Effective Engineer
-
+    - [ ] 躺平
+ 
 === "Just List"
 
     ```diff

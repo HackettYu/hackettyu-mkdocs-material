@@ -154,6 +154,7 @@ nav:
       "让博客里的 Terminal 的例子动起来，给 Mkdocs 添加 termynal 支持": 2021-02-03-mkdocs-add-termy.md
       "写给程序员的子弹笔记指南 ｜ Bullet journal guide for the programmer": 2021-02-08-bullet-journal-tuturial.md
       "SAP JCo 例子 | SAP Java Connector 参考": 2021-03-31-SAP-JCo-example.md
+      "ABAP WTF 时刻": 2021-06-08-ABAP-WTF.md
   - docs:
     - others:
         archives-ABAP-guide-zh: docs/archives/ABAP-guide-zh.md
@@ -335,7 +336,7 @@ nav:
       weekly-2021-03-0x02: weekly/weekly-2021-03-0x02.md
       Weekly 2021-04-0x01: weekly/weekly-2021-04-0x01.md
       Weekly 2021-04-0x02: weekly/weekly-2021-04-0x02.md
-      Weekly 2021-04-0x06: weekly/weekly-2021-04-0x06.md
+      Weekly 2021-06-0x01: weekly/weekly-2021-06-0x01.md
 google_analytics:
   - UA-146236033-1
   - auto

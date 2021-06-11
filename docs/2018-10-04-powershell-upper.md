@@ -93,6 +93,6 @@ set-ExecutionPolicy RemoteSigned
 cmd 提权：
 
 ```cmd
-runas /user:hackett_yu@outlook.com cmd
+runas /user:username@example.com cmd
 doskey sudo=runas /user:{$username} cmd
 ```

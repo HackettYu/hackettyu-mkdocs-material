@@ -134,6 +134,7 @@ Language: ABAP\Python\JavasScript
     - [ ] Software Engineering at Google
     - [ ] The Effective Engineer
     - [ ] 躺平
+    - [ ] 气候经济与人类未来
  
 === "Just List"
 

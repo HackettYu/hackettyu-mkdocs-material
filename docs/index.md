@@ -135,6 +135,7 @@ Language: ABAP\Python\JavasScript
     - [ ] The Effective Engineer
     - [ ] 躺平
     - [ ] 气候经济与人类未来
+    - [ ] 世界大笨蛋反叛手册
  
 === "Just List"
 

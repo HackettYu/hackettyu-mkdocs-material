@@ -155,6 +155,7 @@ nav:
       "写给程序员的子弹笔记指南 ｜ Bullet journal guide for the programmer": 2021-02-08-bullet-journal-tuturial.md
       "SAP JCo 例子 | SAP Java Connector 参考": 2021-03-31-SAP-JCo-example.md
       "ABAP WTF 时刻": 2021-06-08-ABAP-WTF.md
+      "Github PR workflow": 2021-06-21-github-pr-workflow.md
   - docs:
     - others:
         archives-ABAP-guide-zh: docs/archives/ABAP-guide-zh.md

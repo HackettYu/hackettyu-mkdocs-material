@@ -345,7 +345,6 @@ google_analytics:
 extra_css:
   - '/css/termynal.css'
   - '/css/custom.css'
-  - '/css/font.css'
 extra_javascript:
   # baidu stat
   # - '/js/baidu-stat.js'

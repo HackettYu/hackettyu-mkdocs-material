@@ -1,5 +1,5 @@
 ---
-title: 用 Python 的 SOAP client Zeep 解析 Webservice 接口
+title: 用 Python 的 SOAP client Zeep 解析 Webservice 接口 ｜ Python SOAP client ｜ Python zeep 例子 ｜ Python 调用 Webservice
 description: Zeep 是一个 Python SOAP client. |
              使用 SOAP client 能更好解析 WebService 的 WSDL(Schema)，当然 HTTP 一般情况下都会比 SOAP client 快
 redirect: 2021-02-01-zeep-turtorial

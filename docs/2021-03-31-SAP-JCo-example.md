@@ -1,4 +1,4 @@
-# SAP JCo 例子 | SAP Java Connector 参考
+# SAP JCo 例子 | SAP Java Connector 参考 ｜ Java 调用 SAP 接口
 
 > 本例子使用的的版本为 jco_31
 

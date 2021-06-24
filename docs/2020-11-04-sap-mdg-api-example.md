@@ -1,5 +1,5 @@
 ---
-title: SAP 主数据参考 ｜ SAP MDG API examples
+title: SAP 主数据参考 ｜ SAP Master Data ｜ SAP MDG API examples
 description:  http://www.sdn.sap.com/irj/scn/index?rid=/library/uuid/70f3f3d3-86e5-3010-909d-9162368bfbec&overridelayout=true
 redirect: 2020-11-04-sap-mdg-api-example
 ---

@@ -1,4 +1,4 @@
-# Github PR workflow | 个人提交 PR 工作流
+# Github PR workflow | 我的 PR 工作流程 ｜ 如何提交一次 Pull Reqeust
 
 > Descirption: Github PR workflow，使用 git rebase 保持干净的主干分支
 

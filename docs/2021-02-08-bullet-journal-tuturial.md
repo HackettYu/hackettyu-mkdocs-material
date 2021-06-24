@@ -1,5 +1,5 @@
 ---
-title: 写给程序员的子弹笔记指南 ｜ Bullet journal guide for the programmer
+title: 写给程序员的子弹笔记指南 ｜ 子弹笔记简明教程 ｜ Bullet journal guide for the programmer
 description: 写给程序员的子弹笔记指南
 redirect: 2021-02-08-bullet-journal-tuturial
 ---

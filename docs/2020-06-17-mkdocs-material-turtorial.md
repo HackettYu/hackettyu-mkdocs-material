@@ -1,5 +1,5 @@
 ---
-title: Mkdocs 搭建博客指北，以及推荐 Mkdocs-Materials 主题
+title: Mkdocs 搭建博客指北，以及推荐 Mkdocs-Materials 主题 ｜ Mkdocs Materials 搭建博客
 description: 最近在看 fastAPI 的文档，无意中发现许多 Python 的库的官方文档都是用的 Mkdocs-Materials
 redirect: 2020-06-17-mkdocs-material-turtorial
 ---

@@ -156,7 +156,7 @@ nav:
       "SAP JCo 例子 | SAP Java Connector 参考": 2021-03-31-SAP-JCo-example.md
       "ABAP WTF 时刻": 2021-06-08-ABAP-WTF.md
       "Github PR workflow": 2021-06-21-github-pr-workflow.md
-      "关于 ABAP 或许不需要那么多的循环": 2021-06-25-abap-dont-need-that-many-loops.md
+      "关于 ABAP 或许不需要那么多的循环": 2021-06-25-abap-dont-need-many-loops.md
   - docs:
     - others:
         archives-ABAP-guide-zh: docs/archives/ABAP-guide-zh.md
@@ -165,14 +165,7 @@ nav:
         backup-180102: docs/backup/180102.md
         backup-180103: docs/backup/180103.md
         backup-180510: docs/backup/180510.md
-        backup-180828-0x01: docs/backup/180828-0x01.md
-        backup-180828-0x02: docs/backup/180828-0x02.md
         backup-180915: docs/backup/180915.md
-        backup-181001: docs/backup/181001.md
-        backup-181003: docs/backup/181003.md
-        backup-181004: docs/backup/181004.md
-        backup-181208: docs/backup/181208.md
-        backup-200206: docs/backup/200206.md
         docs-log-firefox-addon: docs/log/firefox-addon.md
         docs-log-fix-bugs: docs/log/fix-bugs.md
         docs-note-ISO-8601: docs/note/ISO-8601.md

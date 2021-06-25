@@ -156,6 +156,7 @@ nav:
       "SAP JCo 例子 | SAP Java Connector 参考": 2021-03-31-SAP-JCo-example.md
       "ABAP WTF 时刻": 2021-06-08-ABAP-WTF.md
       "Github PR workflow": 2021-06-21-github-pr-workflow.md
+      "关于 ABAP 或许不需要那么多的循环": 2021-06-25-abap-dont-need-that-many-loops.md
   - docs:
     - others:
         archives-ABAP-guide-zh: docs/archives/ABAP-guide-zh.md

@@ -49,8 +49,7 @@
 
 ### Tools
 
-* repl.it: https://repl.it/?__cf_chl_jschl_tk__=64bbecbc114ae77fb3aa0f61f96ef77fd365a117-1604590666-0-AcCQ97Xd1oi7UH3bJ84dVHRhdCsO00arCeFFPKL11jRYnwZz0YKDja9Hmwr98VML1SmC8sj8yBEAz1o3bdCJ2yTY6owAlUULCWv9rUCqYrU4CkWsGFxFly5YkHZBXp-ENSmZSdHI9Ecs0ybZSNzurA2ZmPzO1DmIH-yJyypSMsqAwI4oL55bDolOCOcvd1iWRl3BUvn5fnBBAT5MnRgCSo-n0EeJAzghwnEq5J9Kmh5JVi-x05XoQ72kYNUIt7A-FXkY9k24Nn3lPdxNJ6DAUVc
-* https://datavizcatalogue.com/ZH/index.html
+* repl.it: https://repl.it
 
 ### Sources
 

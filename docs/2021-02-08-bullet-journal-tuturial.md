@@ -319,6 +319,36 @@ eg:
 
     要重写所有这些东西可能看起来很费劲，但这是故意的。这个过程会让你停顿下来，考虑每一个条目。如果一个条目根本不值得你花力气重写，那么它可能就没那么重要。把它扔掉吧。迁移的目的是将值得努力的东西浮出水面，意识到我们的行为，并将信号从噪音中分离出来。这就是 BuJo 从一个系统转变为实践的地方...
 
+## Templates
+
+**Note**
+
+```md
+# TOPIC
+
+**SUBTOPIC 1**
+    * Key point 1
+    * Key point 2
+    * Key point 3
+        - Extra information
+        - Examples
+        - Studies/reaserch findings
+
+**SUBTOPIC 2**
+    * Defintion
+    * Key point 1
+```
+
+**Review**
+
+```md
+**Review**
+- do something
+
+**Next**
+- to fix
+```
+
 ## Reference
 
 - [https://bulletjournal.com/](https://bulletjournal.com/)

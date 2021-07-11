@@ -99,7 +99,7 @@ if( condition == 1 ) {
 
 我认为用 SWITCH CASE 会更好
 
-我觉得最好的判断使用新写法的代码是否“绕”、“能流行”、“可通用”
+我觉得最好的判断使用新写法的代码是否「绕」、「能流行」、「可通用」
 
 ## Back to square one, you don't need to use LOOP syntax
 

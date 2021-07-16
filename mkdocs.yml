@@ -17,7 +17,6 @@ theme:
   name: material
   # custom_dir: material
   
-
   # 404 page
   static_templates:
     - 404.html
@@ -50,17 +49,20 @@ plugins:
   - search
   - minify:
       minify_html: true
-  - git-revision-date #显示最后更新时间
-  - rss:
-      abstract_chars_count: 160
-      date_from_meta:
-        as_creation: "date"
-        as_update: false
-        datetime_format: "%Y-%m-%d %H:%M"
-      feed_ttl: 1440
-      image: ""
-      length: 20
-      pretty_print: false
+  - git-revision-date-localized:
+      type: iso_date
+      fallback_to_build_date: true
+      enable_creation_date: true
+  # - rss:
+  #     abstract_chars_count: 160
+  #     date_from_meta:
+  #       as_creation: "date"
+  #       as_update: false
+  #       datetime_format: "%Y-%m-%d %H:%M"
+  #     feed_ttl: 1440
+  #     image: ""
+  #     length: 20
+  #     pretty_print: false
 
 extra:
   social:
@@ -71,10 +73,8 @@ extra:
     - icon: fontawesome/brands/spotify
       link: spotify:user:12glou9s4691jdz6arkbb8zmn
     - icon: fontawesome/solid/rss
-      link: https://hackettyu.com/feed_rss_created.xml
-    - icon: fontawesome/solid/rss
-      link: https://hackettyu.com/feed_rss_updated.xml
-# Extensions
+      link: https://hackettyu.com/todo
+
 markdown_extensions:
   - meta
   - codehilite

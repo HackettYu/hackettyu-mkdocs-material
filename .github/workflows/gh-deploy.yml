@@ -12,8 +12,9 @@ jobs:
       ubuntu-latest
     steps:
       - name: Checkout master
-        uses: 
-          actions/checkout@v2
+        uses: actions/checkout@v2
+        with:
+          fetch_depth: 0
 
       - name: Install Python
         uses: actions/setup-python@v1
@@ -22,8 +23,7 @@ jobs:
       
       - name: Deploy docs
         uses: 
-          # TODO: fix the lastest version
-          mhausenblas/mkdocs-deploy-gh-pages@1.16
+          mhausenblas/mkdocs-deploy-gh-pages@master
         # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
         env:
           GITHUB_TOKEN: 

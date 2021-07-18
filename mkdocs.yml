@@ -175,12 +175,14 @@ nav:
         docs-note-my-todoist: docs/note/my-todoist.md
         docs-note-one-python-craftsman-note: docs/note/one-python-craftsman-note.md
         docs-note-ubuntu: docs/note/ubuntu.md
-    # - books:
-    #   "奈飞文化手册": "docs/books/奈飞文化手册.md"
-    #   "子弹笔记": "docs/books/子弹笔记.md"
-    #   "手工咖啡：咖啡爱好者的完美冲煮指南": "docs/books/手工咖啡：咖啡爱好者的完美冲煮指南.md"
-    #   "掌控习惯": "docs/books/掌控习惯.md"
-    #   "黑客与画家": "docs/books/黑客与画家.md"
+        
+    - books:
+       ISBN-9787115249494: ISBN-9787115249494.md
+       ISBN-9787553678054: ISBN-9787553678054.md  
+       ISBN-9787559627636: ISBN-9787559627636.md  
+       ISBN-9787559632265: ISBN-9787559632265.md  
+       ISBN-9787521705041: ISBN-9787521705041.md
+
     - command:
         bash-cheatsheet: docs/command/bash-cheatsheet.md
         cmd-about-wifi: docs/command/cmd/about-wifi.md

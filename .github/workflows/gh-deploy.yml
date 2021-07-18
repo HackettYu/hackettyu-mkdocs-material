@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Install Python
         uses: actions/setup-python@v1

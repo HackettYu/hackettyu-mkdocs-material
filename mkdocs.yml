@@ -177,11 +177,11 @@ nav:
         docs-note-ubuntu: docs/note/ubuntu.md
         
     - books:
-       ISBN-9787115249494: ISBN-9787115249494.md
-       ISBN-9787553678054: ISBN-9787553678054.md  
-       ISBN-9787559627636: ISBN-9787559627636.md  
-       ISBN-9787559632265: ISBN-9787559632265.md  
-       ISBN-9787521705041: ISBN-9787521705041.md
+       ISBN-9787115249494: docs/books/ISBN-9787115249494.md
+       ISBN-9787553678054: docs/books/ISBN-9787553678054.md  
+       ISBN-9787559627636: docs/books/ISBN-9787559627636.md  
+       ISBN-9787559632265: docs/books/ISBN-9787559632265.md  
+       ISBN-9787521705041: docs/books/ISBN-9787521705041.md
 
     - command:
         bash-cheatsheet: docs/command/bash-cheatsheet.md

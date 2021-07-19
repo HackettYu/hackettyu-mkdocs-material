@@ -5,9 +5,9 @@ on:
       # only use in this branch
       - use-mike
     paths:
-      - '.github/workflows/document.yaml'
+      - '.github/workflows/document.yml'
       - 'mkdocs.yaml'
-      - 'poetry.lock'
+      - 'pyproject.toml'
       - 'docs/**'
 
 jobs:

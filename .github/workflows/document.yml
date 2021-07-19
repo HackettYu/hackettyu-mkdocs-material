@@ -41,4 +41,5 @@ jobs:
       - name: "Build Latest Document"
         run: |
           poetry install
+          # use doc branch
           poetry run mike deploy --push --update-aliases latest -r doc

@@ -1,6 +1,0 @@
-setuptools==57.2.0
-wheel==0.36.2
-# mike==1.0.1
-mkdocs-minify-plugin==0.4.0
-mkdocs-git-revision-date-localized-plugin==0.9.2
-mkdocs-redirects==1.0.3

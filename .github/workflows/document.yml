@@ -1,0 +1,45 @@
+name: Publish docs via GitHub Pages
+on:
+  push:
+    branches:
+      # only use in this branch
+      - use-mike
+    paths:
+      - '.github/workflows/document.yaml'
+      - 'mkdocs.yaml'
+      - 'poetry.lock'
+      - 'docs/**'
+    
+
+jobs:
+  build:
+    name: 
+      Deploy docs
+    runs-on: 
+      ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - run: git fetch origin use-mike:use-mike
+      - uses: fregante/setup-git-user@v1
+
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - uses: actions/cache@v1
+        with:
+          path: |
+            ~/.cache/pip
+            .venv
+          key: ${{ hashFiles('poetry.lock') }}
+      - name: "Setup Poetry"
+        run: pip install --user poetry
+      - name: "Build Latest Document"
+        run: |
+          poetry install
+          poetry run mike deploy --push --update-aliases latest

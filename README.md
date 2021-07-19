@@ -91,6 +91,12 @@ Successfully installed typer
 cd docs &&  python ..\scripts\navgen.py tree --path .
 ```
 
+### cheatsheet
+
+```bash
+ mike deploy --push --update-aliases latest -r doc     
+```
+
 ## 关于 Changelog
 
 ### 指导原则

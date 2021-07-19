@@ -2,6 +2,7 @@ images/
 writing/
 draft/
 backup/
+site/
 
 .pytest_cache/
 *.DS_Store

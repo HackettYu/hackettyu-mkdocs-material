@@ -22,7 +22,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - run: git fetch origin origin:use-mike
+      - run: git fetch origin use-mike:use-mike
       - uses: fregante/setup-git-user@v1
 
       - name: Install Python

@@ -5,9 +5,9 @@ site_author: hackettyu
 site_description: >-
   hackettyu's blog | hackettyu.repeat( me.eat().sleep().code() )
 # Repository
-repo_name: hackettyu/mkdocs-material
-repo_url: https://github.com/hackettyu/mkdocs-material
-edit_uri: "https://github.com/HackettYu/mkdocs-material/blob/master/docs"
+repo_name: hackettyu/hackettyu-mkdocs-material
+repo_url: https://github.com/hackettyu/hackettyu-mkdocs-material
+edit_uri: "https://github.com/HackettYu/hackettyu-mkdocs-material/blob/master/docs"
 
 # Copyrighpro
 copyright: Copyright &copy; 2018 - 2021

@@ -42,4 +42,4 @@ jobs:
         run: |
           poetry install
           # use doc branch
-          poetry run mike deploy --push --update-aliases latest -r doc
+          poetry run mike deploy -b doc --push --update-aliases latest

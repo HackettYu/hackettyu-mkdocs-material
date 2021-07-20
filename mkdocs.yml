@@ -5,9 +5,9 @@ site_author: hackettyu
 site_description: >-
   hackettyu's blog | hackettyu.repeat( me.eat().sleep().code() )
 # Repository
-repo_name: hackettyu/mkdocs-material
-repo_url: https://github.com/hackettyu/mkdocs-material
-edit_uri: "https://github.com/HackettYu/mkdocs-material/blob/master/docs"
+repo_name: hackettyu/hackettyu-mkdocs-material
+repo_url: https://github.com/hackettyu/hackettyu-mkdocs-material
+edit_uri: "https://github.com/HackettYu/hackettyu-mkdocs-material/blob/master/docs"
 
 # Copyrighpro
 copyright: Copyright &copy; 2018 - 2021
@@ -105,7 +105,7 @@ markdown_extensions:
       social_url_shorthand: true
       social_url_shortener: true
       user: hackettyu
-      repo: mkdocs-material
+      repo: hackettyu-mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
@@ -141,7 +141,7 @@ nav:
   - 2020:
       "命令行下切换当前 workplace 到 Visual Studio Code": 2020-03-20-vscode-diff.md
       "Windows 下使用 Scoop 工具安装环境以及管理各种软件": 2020-05-07-windows-scoop.md
-      "Mkdocs 搭建博客指北，以及推荐 Mkdocs-Materials 主题": 2020-06-17-mkdocs-material-turtorial.md
+      "Mkdocs 搭建博客指北，以及推荐 mkdocs-materials 主题": 2020-06-17-mkdocs-material-turtorial.md
       "关于 ABAP 的代码缩进风格的思考": 2020-08-20-ABAP-code-indent.md
       "LightPorxy 的非官方文档": 2020-09-09-lightproxy-unofficial-document.md
       "Awesome command line slide | 记一次分享命令行的幻灯片": 2020-09-14-awosome-command-line-slide.md

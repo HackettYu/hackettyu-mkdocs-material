@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mkdocs-material"
+name = "hackettyu-mkdocs-material"
 version = "0.1.0"
 description = "my blogs"
 authors = ["hackettyu <hy.lobby@gmail.com>"]

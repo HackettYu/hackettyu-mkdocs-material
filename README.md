@@ -94,7 +94,7 @@ cd docs &&  python ..\scripts\navgen.py tree --path .
 ### cheatsheet
 
 ```bash
- mike deploy --push --update-aliases latest -r doc     
+ mike deploy --push --update-aliases latest -b doc     
 ```
 
 ## 关于 Changelog

@@ -1,5 +1,6 @@
 [tool.poetry]
-name = "mkdocs-material"
+# XXX: https://github.com/python-poetry/poetry/issues/236
+name = "hackettyu-mkdocs-material"
 version = "0.1.0"
 description = "my blog"
 authors = ["hackettyu <hy.lobby@gmail.com>"]

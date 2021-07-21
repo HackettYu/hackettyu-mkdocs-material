@@ -3,7 +3,7 @@ on:
   push:
     branches:
       # only use in this branch
-      - use-mike
+      - main
     paths:
       - '.github/workflows/document.yml'
       - 'mkdocs.yaml'

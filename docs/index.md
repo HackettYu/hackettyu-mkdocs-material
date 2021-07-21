@@ -28,6 +28,8 @@ Language: ABAP\Python\JavasScript
 + [2019-12-05]:[add google analytics]
 - [2020-03-17]:[del some articles]
 + [2020-06-16]:[add material-mkdocs]
++ [2021-07-20]:[add mike]
++ [2021-07-20]:[change Github page to cloudflare page]
 ```
 
 ### Search
@@ -60,6 +62,7 @@ Language: ABAP\Python\JavasScript
     * [X] 耶加雪菲 歌希 水洗
     * [ ] 耶加雪菲 草莓优格
     * [X] 瑰夏
+    * [X] 花魁
      
     **肯尼亚**
 
@@ -120,7 +123,7 @@ Language: ABAP\Python\JavasScript
     - [X] Pro-Git
     - [X] 软件设计的哲学
     - [X] 混乱的猴子
-    - [ ] 解密 Insgram
+    - [X] 解密 Insgram
     - [ ] 你有你的划，世界另有计划
 
     **TODO**
@@ -138,7 +141,6 @@ Language: ABAP\Python\JavasScript
     - [ ] 自由软件，自由社会
     - [ ] Software Engineering at Google
     - [ ] The Effective Engineer
-    - [ ] 躺平
     - [ ] 气候经济与人类未来
     - [ ] 世界大笨蛋反叛手册
  

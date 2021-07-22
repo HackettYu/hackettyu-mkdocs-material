@@ -1,5 +1,10 @@
 # weekly template
 
+---
+title: Weekly XXXX-XX-0x0X
+description: [hackettyu'weekly] Weekly XXXX-XX-0x0X
+---
+
 <!-- 
 
 <summary>key

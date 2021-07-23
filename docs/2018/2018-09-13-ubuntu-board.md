@@ -1,7 +1,7 @@
 ---
 title: Ubuntu 打字时停用触摸板
 description: 我在使用 Ubuntu 16.04 的时候打字，手总是会碰到触摸板。体验不太爽，所以找了文档处理下
-redirect: docs-2018-09-13-ubuntu-board
+redirect: 2018-09-13-ubuntu-board
 ---
 
 > description: 我在使用 Ubuntu 16.04 的时候打字，手总是会碰到触摸板。体验不太爽，所以找了文档处理下

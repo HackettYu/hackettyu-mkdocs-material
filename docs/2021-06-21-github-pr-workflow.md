@@ -34,6 +34,18 @@ git commit -am "Added: some stuffs"
 # git diff <branch> <filename>
 git push origin {{dev}} # 推送到克隆的个人仓库，可以在 Github 中 PR
 # git push upstream main ???
+
+# 删除远程仓库的分支
+git branch -a # 查看
+git push origin --delete {{remote-ref}}
+
+# 删除本地分支
+git branch -D {{branch-name}}
+
+# 撤销已推送远程仓库的 commit
+git log # 找到 hash 值
+git rebase -i {{hash}}
+# pick or squash
 ```
 
 ## Extention

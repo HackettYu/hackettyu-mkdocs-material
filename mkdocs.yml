@@ -54,47 +54,6 @@ plugins:
       type: iso_date
       fallback_to_build_date: true
       enable_creation_date: true
-  - redirects:
-      redirect_maps:
-        2018/2018-09-13-ubuntu-board.md: 2018-09-13-ubuntu-board.md
-        2018/2018-09-27-code-cloc.md: 2018-09-27-code-cloc.md
-        2018/2018-10-01-chromium-google-api.md: 2018-10-01-chromium-google-api.md
-        2018/2018-10-04-command-close-nvida.md: 2018-10-04-command-close-nvida.md
-        2018/2018-10-04-powershell-upper.md: 2018-10-04-powershell-upper.md
-        2018/2018-10-06-linux-ln.md: 2018-10-06-linux-ln.md
-        2018/2018-10-18-java-swap-function.md: 2018-10-18-java-swap-function.md
-        2018/2018-10-25-firewall-cmd.md: 2018-10-25-firewall-cmd.md
-        2018/2018-10-25-hexo-dns.md: 2018-10-25-hexo-dns.md
-        2018/2018-11-13-ssh-login.md: 2018-11-13-ssh-login.md
-        2018/2018-12-02-windows-git-bash.md: 2018-12-02-windows-git-bash.md
-        2018/2018-12-15-switch-eclipse-version.md: 2018-12-15-switch-eclipse-version.md
-
-        2019/2019-01-02-javascript-use.md: 2019-01-02-javascript-use.md
-        2019/2019-02-16-javascript-error-msg.md: 2019-02-16-javascript-error-msg.md
-        2019/2019-04-13-spring-framework-version.md: 2019-04-13-spring-framework-version.md
-        2019/2019-04-14-tomcat-deploy-web.md: 2019-04-14-tomcat-deploy-web.md
-        2019/2019-09-16-chrome-extention.md: 2019-09-16-chrome-extention.md
-        2019/2019-10-30-hexo-ogp.md: 2019-10-30-hexo-ogp.md
-        2019/2019-11-04-hexo-kindle.md: 2019-11-04-hexo-kindle.md
-
-        2020/2020-03-20-vscode-diff.md: 2020-03-20-vscode-diff.md
-        2020/2020-05-07-windows-scoop.md: 2020-05-07-windows-scoop.md
-        2020/2020-06-17-mkdocs-material-turtorial.md: 2020-06-17-mkdocs-material-turtorial.md
-        2020/2020-08-20-ABAP-code-indent.md: 2020-08-20-ABAP-code-indent.md
-        2020/2020-09-09-lightproxy-unofficial-document.md: 2020-09-09-lightproxy-unofficial-document.md
-        2020/2020-09-14-awosome-command-line-slide.md: 2020-09-14-awosome-command-line-slide.md
-        2020/2020-11-02-python-enum.md: 2020-11-02-python-enum.md
-        2020/2020-11-04-sap-mdg-api-example.md: 2020-11-04-sap-mdg-api-example.md
-
-        2021/2021-01-25-abap-rest-interface.md: 2021-01-25-abap-rest-interface.md
-        2021/2021-02-01-zeep-turtorial.md: 2021-02-01-zeep-turtorial.md
-        2021/2021-02-02-abap-rest-use-library.md: 2021-02-02-abap-rest-use-library.md
-        2021/2021-02-03-mkdocs-add-termy.md: 2021-02-03-mkdocs-add-termy.md
-        2021/2021-02-08-bullet-journal-tuturial.md: 2021-02-08-bullet-journal-tuturial.md
-        2021/2021-03-31-SAP-JCo-example.md: 2021-03-31-SAP-JCo-example.md
-        2021/2021-06-08-ABAP-WTF.md: 2021-06-08-ABAP-WTF.md
-        2021/2021-06-21-github-pr-workflow.md: 2021-06-21-github-pr-workflow.md
-        2021/2021-06-25-abap-dont-need-many-loops.md: 2021-06-25-abap-dont-need-many-loops.md
 
 extra:
   social:
@@ -154,45 +113,45 @@ markdown_extensions:
 
 nav:
   - 2018:
-      "解决 Ubuntu v16.04 没有在打字时停用触摸板选项": 2018/2018-09-13-ubuntu-board.md
-      "用量化自己的代码生涯：用命令行工具 cloc 做代码行统计": 2018/2018-09-27-code-cloc.md
-      "解决 Chromium 浏览器缺少 Google API 密钥无法登录问题": 2018/2018-10-01-chromium-google-api.md
-      "用命令行操作 Window 系统的显卡驱动程序": 2018/2018-10-04-command-close-nvida.md
-      "在命令行下使用 Powershell 提权": 2018/2018-10-04-powershell-upper.md
-      "用 ln 命令了解硬链接和软连接": 2018/2018-10-06-linux-ln.md
-      "我在写 java swap 函数时理解了值传递与引用": 2018/2018-10-18-java-swap-function.md
-      "关于 CentOS 7 新的防火墙命令 firewall-cmd": 2018/2018-10-25-firewall-cmd.md
-      "hexo 配置 DNS 分流导致国内找不到 HOST 的问题处理": 2018/2018-10-25-hexo-dns.md
-      "SSH 登录时出现如下错误：Disconnected:No supported authentication methods available 问题处理": 2018/2018-11-13-ssh-login.md
-      "Windows 下使用 git bash 自带的功能配置终端主题": 2018/2018-12-02-windows-git-bash.md
-      "Eclipse 下切换编译 Java 版本": 2018/2018-12-15-switch-eclipse-version.md
+      "解决 Ubuntu v16.04 没有在打字时停用触摸板选项": 2018-09-13-ubuntu-board.md
+      "用量化自己的代码生涯：用命令行工具 cloc 做代码行统计": 2018-09-27-code-cloc.md
+      "解决 Chromium 浏览器缺少 Google API 密钥无法登录问题": 2018-10-01-chromium-google-api.md
+      "用命令行操作 Window 系统的显卡驱动程序": 2018-10-04-command-close-nvida.md
+      "在命令行下使用 Powershell 提权": 2018-10-04-powershell-upper.md
+      "用 ln 命令了解硬链接和软连接": 2018-10-06-linux-ln.md
+      "我在写 java swap 函数时理解了值传递与引用": 2018-10-18-java-swap-function.md
+      "关于 CentOS 7 新的防火墙命令 firewall-cmd": 2018-10-25-firewall-cmd.md
+      "hexo 配置 DNS 分流导致国内找不到 HOST 的问题处理": 2018-10-25-hexo-dns.md
+      "SSH 登录时出现如下错误：Disconnected:No supported authentication methods available 问题处理": 2018-11-13-ssh-login.md
+      "Windows 下使用 git bash 自带的功能配置终端主题": 2018-12-02-windows-git-bash.md
+      "Eclipse 下切换编译 Java 版本": 2018-12-15-switch-eclipse-version.md
   - 2019:
-      "关于 JavaScript 作用域问题": 2019/2019-01-02-javascript-use.md
-      "JavaScript 错误参考（转载）": 2019/2019-02-16-javascript-error-msg.md
-      "如何订阅一个 Repo 的 Realese 信息：利用 Github API 获取 spring-framework 所有版本更新信息": 2019/2019-04-13-spring-framework-version.md
-      "利用 Tomcat8 和 maven 部署 Web 工程": 2019/2019-04-14-tomcat-deploy-web.md
-      "利用 policy whitelist 解决 Chrome 第三方扩展安装的问题": 2019/2019-09-16-chrome-extention.md
-      "给 hexo 博客添加 OGP 协议支持": 2019/2019-10-30-hexo-ogp.md
-      "如何将 hexo 的 blog 页面发送到 kindle": 2019/2019-11-04-hexo-kindle.md
+      "关于 JavaScript 作用域问题": 2019-01-02-javascript-use.md
+      "JavaScript 错误参考（转载）": 2019-02-16-javascript-error-msg.md
+      "如何订阅一个 Repo 的 Realese 信息：利用 Github API 获取 spring-framework 所有版本更新信息": 2019-04-13-spring-framework-version.md
+      "利用 Tomcat8 和 maven 部署 Web 工程": 2019-04-14-tomcat-deploy-web.md
+      "利用 policy whitelist 解决 Chrome 第三方扩展安装的问题": 2019-09-16-chrome-extention.md
+      "给 hexo 博客添加 OGP 协议支持": 2019-10-30-hexo-ogp.md
+      "如何将 hexo 的 blog 页面发送到 kindle": 2019-11-04-hexo-kindle.md
   - 2020:
-      "命令行下切换当前 workplace 到 Visual Studio Code": 2020/2020-03-20-vscode-diff.md
-      "Windows 下使用 Scoop 工具安装环境以及管理各种软件": 2020/2020-05-07-windows-scoop.md
-      "Mkdocs 搭建博客指北，以及推荐 mkdocs-materials 主题": 2020/2020-06-17-mkdocs-material-turtorial.md
-      "关于 ABAP 的代码缩进风格的思考": 2020/2020-08-20-ABAP-code-indent.md
-      "LightPorxy 的非官方文档": 2020/2020-09-09-lightproxy-unofficial-document.md
-      "Awesome command line slide | 记一次分享命令行的幻灯片": 2020/2020-09-14-awosome-command-line-slide.md
-      "简单使用一下 Python enum": 2020/2020-11-02-python-enum.md
-      "SAP 主数据参考 ｜ SAP MDG API examples": 2020/2020-11-04-sap-mdg-api-example.md
+      "命令行下切换当前 workplace 到 Visual Studio Code": 2020-03-20-vscode-diff.md
+      "Windows 下使用 Scoop 工具安装环境以及管理各种软件": 2020-05-07-windows-scoop.md
+      "Mkdocs 搭建博客指北，以及推荐 mkdocs-materials 主题": 2020-06-17-mkdocs-material-turtorial.md
+      "关于 ABAP 的代码缩进风格的思考": 2020-08-20-ABAP-code-indent.md
+      "LightPorxy 的非官方文档": 2020-09-09-lightproxy-unofficial-document.md
+      "Awesome command line slide | 记一次分享命令行的幻灯片": 2020-09-14-awosome-command-line-slide.md
+      "简单使用一下 Python enum": 2020-11-02-python-enum.md
+      "SAP 主数据参考 ｜ SAP MDG API examples": 2020-11-04-sap-mdg-api-example.md
   - 2021:
-      "ABAP 创建一个简单的 RESTful 接口": 2021/2021-01-25-abap-rest-interface.md
-      "用 Python 的 SOAP client Zeep 解析 Webservice 接口": 2021/2021-02-01-zeep-turtorial.md
-      "ABAP REST 工具库 CL_REST_LIBRARY ｜ ABAP 使用 CL_REST_LIBRARY 实现 RESTful 接口": 2021/2021-02-02-abap-rest-use-library.md
-      "让博客里的 Terminal 的例子动起来，给 Mkdocs 添加 termynal 支持": 2021/2021-02-03-mkdocs-add-termy.md
-      "写给程序员的子弹笔记指南 ｜ Bullet journal guide for the programmer": 2021/2021-02-08-bullet-journal-tuturial.md
-      "SAP JCo 例子 | SAP Java Connector 参考": 2021/2021-03-31-SAP-JCo-example.md
-      "ABAP WTF 时刻": 2021/2021-06-08-ABAP-WTF.md
-      "Github PR workflow": 2021/2021-06-21-github-pr-workflow.md
-      "关于 ABAP 或许不需要那么多的循环": 2021/2021-06-25-abap-dont-need-many-loops.md
+      "ABAP 创建一个简单的 RESTful 接口": 2021-01-25-abap-rest-interface.md
+      "用 Python 的 SOAP client Zeep 解析 Webservice 接口": 2021-02-01-zeep-turtorial.md
+      "ABAP REST 工具库 CL_REST_LIBRARY ｜ ABAP 使用 CL_REST_LIBRARY 实现 RESTful 接口": 2021-02-02-abap-rest-use-library.md
+      "让博客里的 Terminal 的例子动起来，给 Mkdocs 添加 termynal 支持": 2021-02-03-mkdocs-add-termy.md
+      "写给程序员的子弹笔记指南 ｜ Bullet journal guide for the programmer": 2021-02-08-bullet-journal-tuturial.md
+      "SAP JCo 例子 | SAP Java Connector 参考": 2021-03-31-SAP-JCo-example.md
+      "ABAP WTF 时刻": 2021-06-08-ABAP-WTF.md
+      "Github PR workflow": 2021-06-21-github-pr-workflow.md
+      "关于 ABAP 或许不需要那么多的循环": 2021-06-25-abap-dont-need-many-loops.md
   - docs:
     - others:
         archives-ABAP-guide-zh: docs/archives/ABAP-guide-zh.md
@@ -372,12 +331,13 @@ nav:
       Weekly 2021-06-0x01: weekly/weekly-2021-06-0x01.md
       Weekly 2021-06-0x02: weekly/weekly-2021-06-0x02.md
       Weekly 2021-07-0x01: weekly/weekly-2021-07-0x01.md
+      Weekly 2021-07-0x02: weekly/weekly-2021-07-0x02.md
 
 extra_css:
   - '/css/termynal.css'
   - '/css/custom.css'
 extra_javascript:
   # baidu stat
-  # - '/js/baidu-stat.js'
+  - '/js/baidu-stat.js'
   - '/js/termynal.js'
   - '/js/custom.js'

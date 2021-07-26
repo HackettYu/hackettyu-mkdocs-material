@@ -176,3 +176,4 @@ ENDLOOP.
 
 - [https://answers.sap.com/questions/11258830/how-to-change-the-value-of-an-internal-table-witho.html](https://answers.sap.com/questions/11258830/how-to-change-the-value-of-an-internal-table-witho.html)
 - [https://blogs.sap.com/2017/05/14/a-real-case-to-use-reduce-to-finish-a-task-in-daily-work/](https://blogs.sap.com/2017/05/14/a-real-case-to-use-reduce-to-finish-a-task-in-daily-work/)
+

@@ -47,5 +47,6 @@ jobs:
       
       - name: "Push blogs to baidu"
         run: pip install requests==2.26.0
+             pwd
              git checkout main
              python scripts/push.py {{ baidu_token }}

@@ -43,3 +43,6 @@ jobs:
           poetry install
           # use doc branch
           poetry run mike deploy -b doc --push --update-aliases latest
+      
+      - name: "Push blogs to baidu"
+        run: python ./script/push.py {{ baidu_token }}

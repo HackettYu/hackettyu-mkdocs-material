@@ -45,4 +45,5 @@ jobs:
           poetry run mike deploy -b doc --push --update-aliases latest
       
       - name: "Push blogs to baidu"
-        run: python ./script/push.py {{ baidu_token }}
+        run: pip install requests==2.26.0
+             python ./scripts/push.py {{ baidu_token }}

@@ -11,14 +11,13 @@ python = "^3.8"
 setuptools = "^57.2.0"
 wheel = "^0.36.2"
 
-requests = "^2.26.0"
-
 mike = "^1.0.1"
 mkdocs = "^1.1.2"
 mkdocs-material = "^7.1.11"
 mkdocs-minify-plugin = "^0.4.0"
 mkdocs-git-revision-date-localized-plugin = "^0.9.2"
 mkdocs-redirects = "^1.0.3"
+requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
 

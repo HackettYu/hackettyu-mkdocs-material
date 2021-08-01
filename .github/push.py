@@ -18,7 +18,12 @@ def push():
     urls = open(OUTPUT, "rb").read()
     headers = {"Content-Type": "text/plain"}
     url = f"http://data.zz.baidu.com/urls?site={BASE}&token={baidu_token}"
-    return requests.post(url, headers=headers, data=urls, timeout=5).text
+
+    try:
+        resp = requests.post(url, headers=headers, data=urls, timeout=5).text
+    except Exception as err:
+        resp = f"Hint: {err}"
+    return resp
 
 
 if __name__ == "__main__":

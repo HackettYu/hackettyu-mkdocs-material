@@ -9,7 +9,6 @@ on:
       - 'mkdocs.yaml'
       - 'pyproject.toml'
       - 'docs/**'
-      - 'scripts/**'
 
 jobs:
   build:
@@ -22,11 +21,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-
-      - name: "Push blogs to baidu"
-        run: | 
-            pip install requests==2.26.0
-            python scripts/push.py {{ baidu_token }}
 
       - run: git fetch origin doc:doc
       - uses: fregante/setup-git-user@v1

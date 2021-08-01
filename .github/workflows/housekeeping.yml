@@ -1,0 +1,32 @@
+name: Housekeeping
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */8 * * *'
+
+jobs:
+  build:
+    runs-on: 
+      ubuntu-latest
+    steps:
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - uses: actions/cache@v1
+        with:
+          path: |
+            ~/.cache/pip
+            .venv
+          key: ${{ hashFiles('poetry.lock') }}
+      - name: "Setup Poetry"
+        run: | 
+          pip install --user poetry
+          poetry install
+
+      - name: "Push blogs to baidu"
+        run: | 
+            python ./.github/push.py {{ baidu_token }}

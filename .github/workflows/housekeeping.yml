@@ -30,3 +30,4 @@ jobs:
       - name: "Push blogs to baidu"
         run: | 
             python ./.github/push.py {{ baidu_token }}
+

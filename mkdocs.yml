@@ -68,7 +68,7 @@ extra:
   # https://github.com/squidfunk/mkdocs-material/pull/2363
   analytics:
     provider: google
-    property: UA-146236033-1
+    property: !ENV GOOGLE_ANALYTICS_KEY
 
 markdown_extensions:
   - meta

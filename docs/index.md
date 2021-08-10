@@ -14,6 +14,7 @@ Language: ABAP\Python\JavasScript
 
 - [ ] Awesome CLI
 - [ ] Data mock server
+- [ ] Dashboard moniter
 
 > Know how to solve every problem that has been solved.
 
@@ -124,6 +125,8 @@ Language: ABAP\Python\JavasScript
     - [X] 软件设计的哲学
     - [X] 混乱的猴子
     - [X] 解密 Insgram
+    - [X] 岩田先生
+    - [X] 卡片笔记写作法
     - [ ] 你有你的划，世界另有计划
 
     **TODO**
@@ -158,15 +161,21 @@ Language: ABAP\Python\JavasScript
     + 陶哲轩教你学数学
     + 共同的底线
     + 日本色气
-    + RUST 权威指南
     + 把自己作为方法
-    + 重做
-    + 每周工作4小时
     + Visual Studio Code 权威指南
     + UNIX 传奇历史与回忆
-    + 这才是我想要的工作
     + 若为自由故
     + 那些古怪又让人忧心的问题
+    + 抓虫日记
+    + 自由社会，自由软件
+    + 城市发展史：起源、演变与前景
+    + 反叛的科学家
+    + 圆圈正义
+    + 乐理自学指南
+    + 理想国翻丛
+    + 艺术的故事
+    + 人人都在晒
+    + 社会的宗教
     ```
 
 === "English"
@@ -191,6 +200,9 @@ Language: ABAP\Python\JavasScript
 
 > Power by: https://pypi.org/project/mkdocs-rss-plugin/
 
-This is [created](https://hackettyu.com/feed_rss_created.xml)
+~~This is [created](https://hackettyu.com/feed_rss_created.xml)~~
 
-This is [updated](https://hackettyu.com/feed_rss_updated.xml)
+~~This is [updated](https://hackettyu.com/feed_rss_updated.xml)~~
+
+
+> profile counter: ![profile counter](https://komarev.com/ghpvc/?username=hackettyu&color=grey)

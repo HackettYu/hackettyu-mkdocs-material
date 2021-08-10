@@ -39,8 +39,8 @@ jobs:
       - name: "Setup Poetry"
         run: pip install --user poetry
       - name: "Build Latest Document"
-        env:
-          GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}
+        # env:
+        #   GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}
         run: |
           poetry install
           # use doc branch

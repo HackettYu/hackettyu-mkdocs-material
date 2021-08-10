@@ -19,7 +19,7 @@ theme:
   
   # 404 page
   static_templates:
-    - '/static/404.html'
+    - 404.html
 
   # Don't include MkDocs' JavaScript
   include_search_page: false

@@ -10,7 +10,7 @@
 - Flico minimal 61
 - Logic MX Master 2S
 - Bose QC 30
-- Macbook pro M1
+- Macbook pro M1 13 inch
 
 ## Command line tools 
 
@@ -31,4 +31,3 @@
 ## service
 
 - netdata: https://github.com/netdata/netdata
-- gogs: https://github.com/gogs/gogs

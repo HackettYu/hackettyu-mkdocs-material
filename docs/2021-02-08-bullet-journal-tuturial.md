@@ -1,6 +1,6 @@
 ---
-title: 写给程序员的子弹笔记指南 ｜ 子弹笔记简明教程 ｜ Bullet journal guide for the programmer
-description: 写给程序员的子弹笔记指南
+title: 自用的子弹笔记指南
+description: 自用的子弹笔记指南
 redirect: 2021-02-08-bullet-journal-tuturial
 ---
 
@@ -348,6 +348,23 @@ eg:
 **Next**
 - to fix
 ```
+
+## Notion 实践
+
+创建一个 Calendar view
+
+![](https://hy-picgo.oss-cn-shenzhen.aliyuncs.com/2021/08/10/abd28feedc2bd94d63156b841ce2f7dd.png)
+
+创建一个 Archive view
+
+![](https://hy-picgo.oss-cn-shenzhen.aliyuncs.com/2021/08/10/d4a3d5d21979cadb1ff62a5e2d1ae608.png)
+
+我的模版
+
+![](https://hy-picgo.oss-cn-shenzhen.aliyuncs.com/2021/08/10/f9f9d8083be2b1c78746f6b5edad1b35.png)
+
+![](https://hy-picgo.oss-cn-shenzhen.aliyuncs.com/2021/08/10/399eae3c0f4194d8637291f7fef74dcf.png)
+
 
 ## Reference
 

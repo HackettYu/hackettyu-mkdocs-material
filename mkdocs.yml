@@ -15,7 +15,7 @@ copyright: Copyright &copy; 2018 - 2021
 # Configuration
 theme:
   name: material
-  # custom_dir: material
+  custom_dir: material
   
   # 404 page
   static_templates:
@@ -147,7 +147,7 @@ nav:
       "用 Python 的 SOAP client Zeep 解析 Webservice 接口": 2021-02-01-zeep-turtorial.md
       "ABAP REST 工具库 CL_REST_LIBRARY ｜ ABAP 使用 CL_REST_LIBRARY 实现 RESTful 接口": 2021-02-02-abap-rest-use-library.md
       "让博客里的 Terminal 的例子动起来，给 Mkdocs 添加 termynal 支持": 2021-02-03-mkdocs-add-termy.md
-      "写给程序员的子弹笔记指南 ｜ Bullet journal guide for the programmer": 2021-02-08-bullet-journal-tuturial.md
+      "自用子弹笔记指南": 2021-02-08-bullet-journal-tuturial.md
       "SAP JCo 例子 | SAP Java Connector 参考": 2021-03-31-SAP-JCo-example.md
       "ABAP WTF 时刻": 2021-06-08-ABAP-WTF.md
       "Github PR workflow": 2021-06-21-github-pr-workflow.md

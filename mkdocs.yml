@@ -177,6 +177,7 @@ nav:
        ISBN-9787559627636: docs/books/ISBN-9787559627636.md  
        ISBN-9787559632265: docs/books/ISBN-9787559632265.md  
        ISBN-9787521705041: docs/books/ISBN-9787521705041.md
+       ISBN-9787115564672: docs/books/ISBN-9787115564672.md
 
     - command:
         bash-cheatsheet: docs/command/bash-cheatsheet.md

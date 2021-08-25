@@ -1,6 +1,6 @@
 # Github PR workflow | 我的 PR 工作流程 ｜ 如何提交一次 Pull Reqeust
 
-> Descirption: Github PR workflow，使用 git rebase 保持干净的主干分支
+> Descriptions: Github PR workflow，使用 git rebase 保持干净的主干分支
 
 ## Basic 
 
@@ -48,7 +48,7 @@ git rebase -i {{hash}}
 # pick or squash
 ```
 
-## Extention
+## Extension
 
 1. PR => Pull Request => 拉取请求
 2. `git cherry-pick <commitHash>`

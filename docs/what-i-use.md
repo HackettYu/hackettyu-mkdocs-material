@@ -22,12 +22,11 @@
 - jq: https://github.com/stedolan/jq
 - ffmpeg: https://ffmpeg.org/
 - htop: https://github.com/htop-dev/htop
+- squoosh: https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli
+- bat: https://github.com/sharkdp/bat
+- misspell->typo: https://github.com/client9/misspell
 
 ## Terminal
 
 - zsh: https://www.zsh.org/
 - starship: https://www.spacex.com/vehicles/starship/
-
-## service
-
-- netdata: https://github.com/netdata/netdata

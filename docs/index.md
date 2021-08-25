@@ -12,10 +12,6 @@ Language: ABAP\Python\JavasScript
 
 > What I cannot create, I do not understand.
 
-- [ ] Awesome CLI
-- [ ] Data mock server
-- [ ] Dashboard moniter
-
 > Know how to solve every problem that has been solved.
 
 - Reading
@@ -127,78 +123,9 @@ Language: ABAP\Python\JavasScript
     - [X] 解密 Insgram
     - [X] 岩田先生
     - [X] 卡片笔记写作法
-    - [ ] 你有你的划，世界另有计划
 
-    **TODO**
-
-    - [ ] SICP Python 实现
-    - [ ] *数据库系统内幕
-    - [ ] 永久档案     
-    - [ ] Cpython internal
-    - [ ] 了不起的我
-    - [ ] 纸知识
-    - [ ] 复杂生命的起源
-    - [ ] *BPF 之巅
-    - [ ] *咖啡冲煮科学
-    - [ ] *咖啡豆科学
-    - [ ] 自由软件，自由社会
-    - [ ] Software Engineering at Google
-    - [ ] The Effective Engineer
-    - [ ] 气候经济与人类未来
-    - [ ] 世界大笨蛋反叛手册
- 
-=== "Just List"
-
-    ```diff
-    + 巴黎烧了吗
-    + Erlang 程序设计
-    + 英语在用--剑桥初级英语语法（英文版）
-    + 流式系统
-    + 递归与函数式的奥妙
-    + 计算机程序设计艺术
-    + 九号梦
-    + 翻译研究
-    + 陶哲轩教你学数学
-    + 共同的底线
-    + 日本色气
-    + 把自己作为方法
-    + Visual Studio Code 权威指南
-    + UNIX 传奇历史与回忆
-    + 若为自由故
-    + 那些古怪又让人忧心的问题
-    + 抓虫日记
-    + 自由社会，自由软件
-    + 城市发展史：起源、演变与前景
-    + 反叛的科学家
-    + 圆圈正义
-    + 乐理自学指南
-    + 理想国翻丛
-    + 艺术的故事
-    + 人人都在晒
-    + 社会的宗教
-    ```
-
-=== "English"
-
-    ```diff
-    + Software Engineering at Google
-    + Chaos Engineering
-    + The New Hacker's Dictionary
-    + Remote
-    + IF THEN
-    + Fonts & Encodings
-    + What IF
-    ```
-
-### Newsletter
-
-> Substack is a place for independent writing. Subscribe directly to writers you trust.
-
-[This my substack](https://hackettyu.substack.com)
 
 ### RSS
-
-> Power by: https://pypi.org/project/mkdocs-rss-plugin/
 
 ~~This is [created](https://hackettyu.com/feed_rss_created.xml)~~
 

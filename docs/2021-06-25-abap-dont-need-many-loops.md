@@ -68,7 +68,7 @@ if (condition) {
 
 // that => this
 
-conditon && func()
+condition && func()
 ```
 
 首先，我不对这段代码语义上是否等价做讨论。

@@ -256,6 +256,7 @@ nav:
         tools-ydict: docs/command/tools/ydict.md
         tools-you-get: docs/command/tools/you-get.md
         tools-z: docs/command/tools/z.md
+        tools-squoosh-cli: docs/command/tools/squoosh-cli.md
     - digest:
         180719: docs/digest/180719.md
         1807200x01: docs/digest/1807200x01.md

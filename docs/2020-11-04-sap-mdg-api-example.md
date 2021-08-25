@@ -196,7 +196,7 @@ TRY.
 CATCH cx_usmd_gov_api_core_error.
     "Adequate Exception handling
 ENDTRY.
-"Interested in the errors occured?
+"Interested in the errors occurred?
 lt_messages = lo_gov_api->get_messages( ).
 ```
 

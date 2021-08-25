@@ -332,7 +332,7 @@ eg:
     * Key point 3
         - Extra information
         - Examples
-        - Studies/reaserch findings
+        - Studies/reasearch findings
 
 **SUBTOPIC 2**
     * Defintion

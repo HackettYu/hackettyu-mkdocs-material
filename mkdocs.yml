@@ -20,6 +20,9 @@ theme:
   # 404 page
   static_templates:
     - 404.html
+    - 'html/spotify-user-albums-cover-art.html'
+    - 'html/spotify-user-flollow_artists-cover-art.html'
+    - 'html/weread-notebook-list-cover-art.html'
 
   # Don't include MkDocs' JavaScript
   include_search_page: false
@@ -152,6 +155,7 @@ nav:
       "ABAP WTF 时刻": 2021-06-08-ABAP-WTF.md
       "Github PR workflow": 2021-06-21-github-pr-workflow.md
       "关于 ABAP 或许不需要那么多的循环": 2021-06-25-abap-dont-need-many-loops.md
+      "Markdown TIL": 2021-08-30-markdown-TIL.md
   - docs:
     - others:
         archives-ABAP-guide-zh: docs/archives/ABAP-guide-zh.md

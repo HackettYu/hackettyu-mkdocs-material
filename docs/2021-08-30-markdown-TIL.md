@@ -5,12 +5,6 @@ Markdown
 
 最近我发现一个关于 Markdwon[^2] 的指南网站[^3]，网站里面有许多标准的实用技巧。
 
-## Markdown Cheat Sheet
-
-| Element	| Markdown Syntax |
-| --- | :--- |
-| 1 | 2 |
-
 ## Link
 
 > <https://www.markdownguide.org/basic-syntax#links>

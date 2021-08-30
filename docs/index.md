@@ -123,9 +123,9 @@ Language: ABAP\Python\JavasScript
 
 ### Masonry
 
-- <https://hackettyu.com/html/html/spotify-user-albums-cover-art.html>
-- <https://hackettyu.com/html/html/spotify-user-flollow_artists-cover-art.html>
-- <https://hackettyu.com/html/html/weread-notebook-list-cover-art.html>
+- <https://hackettyu.com/html/spotify-user-albums-cover-art.html>
+- <https://hackettyu.com/html/spotify-user-flollow_artists-cover-art.html>
+- <https://hackettyu.com/html/weread-notebook-list-cover-art.html>
 
 ### Profile 
 

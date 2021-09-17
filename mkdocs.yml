@@ -174,7 +174,6 @@ nav:
         docs-note-my-todoist: docs/note/my-todoist.md
         docs-note-one-python-craftsman-note: docs/note/one-python-craftsman-note.md
         docs-note-ubuntu: docs/note/ubuntu.md
-        
     - books:
        ISBN-9787115249494: docs/books/ISBN-9787115249494.md
        ISBN-9787553678054: docs/books/ISBN-9787553678054.md  
@@ -182,7 +181,6 @@ nav:
        ISBN-9787559632265: docs/books/ISBN-9787559632265.md  
        ISBN-9787521705041: docs/books/ISBN-9787521705041.md
        ISBN-9787115564672: docs/books/ISBN-9787115564672.md
-
     - command:
         bash-cheatsheet: docs/command/bash-cheatsheet.md
         cmd-about-wifi: docs/command/cmd/about-wifi.md

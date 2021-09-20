@@ -25,6 +25,7 @@ jobs:
       - name: "Setup Poetry"
         run: | 
           pip install --user poetry
+          poetry run pip install --upgrade setuptools==57.5.0
           poetry install
 
       - name: "Push blogs to baidu"

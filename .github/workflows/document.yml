@@ -37,7 +37,9 @@ jobs:
             .venv
           key: ${{ hashFiles('poetry.lock') }}
       - name: "Setup Poetry"
-        run: pip install --user poetry
+        run: |
+          pip install --user poetry
+          poetry run pip install --upgrade setuptools==57.5.0
       - name: "Build Latest Document"
         # env:
         #   GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}

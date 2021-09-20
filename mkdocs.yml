@@ -181,6 +181,7 @@ nav:
        ISBN-9787559632265: docs/books/ISBN-9787559632265.md  
        ISBN-9787521705041: docs/books/ISBN-9787521705041.md
        ISBN-9787115564672: docs/books/ISBN-9787115564672.md
+       ISBN-9787121297267: docs/books/ISBN-9787121297267.md
     - command:
         bash-cheatsheet: docs/command/bash-cheatsheet.md
         cmd-about-wifi: docs/command/cmd/about-wifi.md

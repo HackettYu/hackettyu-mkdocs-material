@@ -21,7 +21,7 @@ Language: ABAP\Python\JavasScript
 ``` diff
 - [2019-11-13]:[send to kindle]
 - [2019-11-13]:[OGP plugin]
-- [2019-11-13]:[support markdown emoji]
++ [2019-11-13]:[support markdown emoji]
 + [2019-12-05]:[add google analytics]
 - [2020-03-17]:[del some articles]
 + [2020-06-16]:[add material-mkdocs]
@@ -40,49 +40,6 @@ Language: ABAP\Python\JavasScript
 ### Find
 
 [https://github.com/HackettYu/mkdocs-material/find/master](https://github.com/HackettYu/mkdocs-material/find/master)
-
-### Drinking
-
-=== "Coffee List"
-    **哥斯达黎加**
-
-    * [ ] 莫加特
-     
-    **也门**
-
-    * [X] 妮娅
-    * [ ] 乌黛妮
- 
-    **埃塞尔比亚**
-
-    * [X] 耶加雪菲 歌希 日晒
-    * [X] 耶加雪菲 歌希 水洗
-    * [ ] 耶加雪菲 草莓优格
-    * [X] 瑰夏
-    * [X] 花魁
-     
-    **肯尼亚**
-
-    * [X] 吉缇图 水洗
-     
-    **苏门答腊**
-
-    * [X] 曼特宁 陈年
-     
-    **哥伦比亚**
-
-    * [X] 惠兰
-
-    **洪都拉斯**
-
-    * [X] 荔枝兰
-
-    **云南**
-
-    * [X] 保山 云裳
-
-    **拼配**
-
 
 ### Media
 

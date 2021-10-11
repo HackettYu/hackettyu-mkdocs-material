@@ -25,6 +25,7 @@
 - squoosh: https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli
 - bat: https://github.com/sharkdp/bat
 - misspell->typo: https://github.com/client9/misspell
+- k: https://github.com/supercrabtree/k
 
 ## Terminal
 

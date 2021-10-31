@@ -82,3 +82,5 @@ bra...
 
 [ref]: https://test.com
 [img]: https://upload.com/test.jpg
+[^r1]: <>
+[^d1]: fuzzy

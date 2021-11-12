@@ -159,6 +159,18 @@ nav:
       "0x08-Github PR workflow": 2021-06-21-github-pr-workflow.md
       "0x09-关于 ABAP 或许不需要那么多的循环": 2021-06-25-abap-dont-need-many-loops.md
       "0x10-Markdown TIL": 2021-08-30-markdown-TIL.md
+  - books:
+     ISBN-9787115249494: books/ISBN-9787115249494.md
+     ISBN-9787553678054: books/ISBN-9787553678054.md  
+     ISBN-9787559627636: books/ISBN-9787559627636.md  
+     ISBN-9787559632265: books/ISBN-9787559632265.md  
+     ISBN-9787521705041: books/ISBN-9787521705041.md
+     ISBN-9787115564672: books/ISBN-9787115564672.md
+     ISBN-9787121297267: books/ISBN-9787121297267.md
+     ISBN-9787508648286: books/ISBN-9787508648286.md
+     ISBN-9787532756728: books/ISBN-9787532756728.md
+     ISBN-9787532762897: books/ISBN-9787532762897.md
+     ISBN-9787201104560: books/ISBN-9787201104560.md
   - docs:
     - others:
         archives-ABAP-guide-zh: docs/archives/ABAP-guide-zh.md
@@ -177,17 +189,6 @@ nav:
         docs-note-my-todoist: docs/note/my-todoist.md
         docs-note-one-python-craftsman-note: docs/note/one-python-craftsman-note.md
         docs-note-ubuntu: docs/note/ubuntu.md
-    - books:
-       ISBN-9787115249494: docs/books/ISBN-9787115249494.md
-       ISBN-9787553678054: docs/books/ISBN-9787553678054.md  
-       ISBN-9787559627636: docs/books/ISBN-9787559627636.md  
-       ISBN-9787559632265: docs/books/ISBN-9787559632265.md  
-       ISBN-9787521705041: docs/books/ISBN-9787521705041.md
-       ISBN-9787115564672: docs/books/ISBN-9787115564672.md
-       ISBN-9787121297267: docs/books/ISBN-9787121297267.md
-       ISBN-9787508648286: docs/books/ISBN-9787508648286.md
-       ISBN-9787532756728: docs/books/ISBN-9787532756728.md
-       ISBN-9787532762897: docs/books/ISBN-9787532762897.md
     - command:
         bash-cheatsheet: docs/command/bash-cheatsheet.md
         cmd-about-wifi: docs/command/cmd/about-wifi.md
@@ -320,31 +321,31 @@ nav:
       docs-words: docs/words.md
       what-i-use: what-i-use.md
   - weekly:
-      weekly-2020-10-0x01: weekly/weekly-2020-10-0x01.md
-      weekly-2020-10-0x02: weekly/weekly-2020-10-0x02.md
-      weekly-2020-11-0x01: weekly/weekly-2020-11-0x01.md
-      weekly-2020-11-0x02: weekly/weekly-2020-11-0x02.md
-      weekly-2020-11-0x03: weekly/weekly-2020-11-0x03.md
-      weekly-2020-11-0x04: weekly/weekly-2020-11-0x04.md
-      weekly-2020-12-0x01: weekly/weekly-2020-12-0x01.md
-      weekly-2020-12-0x02: weekly/weekly-2020-12-0x02.md
-      weekly-2020-12-0x03: weekly/weekly-2020-12-0x03.md
-      weekly-2021-01-0x01: weekly/weekly-2021-01-0x01.md
-      weekly-2021-01-0x02: weekly/weekly-2021-01-0x02.md
-      weekly-2021-02-0x01: weekly/weekly-2021-02-0x01.md
-      weekly-2021-02-0x02: weekly/weekly-2021-02-0x02.md
-      weekly-2021-02-0x03: weekly/weekly-2021-02-0x03.md
-      weekly-2021-02-0x04: weekly/weekly-2021-02-0x04.md
-      weekly-2021-03-0x01: weekly/weekly-2021-03-0x01.md
-      weekly-2021-03-0x02: weekly/weekly-2021-03-0x02.md
-      Weekly 2021-04-0x01: weekly/weekly-2021-04-0x01.md
-      Weekly 2021-04-0x02: weekly/weekly-2021-04-0x02.md
-      Weekly 2021-06-0x01: weekly/weekly-2021-06-0x01.md
-      Weekly 2021-06-0x02: weekly/weekly-2021-06-0x02.md
-      Weekly 2021-07-0x01: weekly/weekly-2021-07-0x01.md
-      Weekly 2021-07-0x02: weekly/weekly-2021-07-0x02.md
-      Weekly 2021-08-0x01: weekly/weekly-2021-08-0x01.md
-      Weekly 2021-10-0x01: weekly/weekly-2021-10-0x01.md
+      2020-10-0x01: weekly/weekly-2020-10-0x01.md
+      2020-10-0x02: weekly/weekly-2020-10-0x02.md
+      2020-11-0x01: weekly/weekly-2020-11-0x01.md
+      2020-11-0x02: weekly/weekly-2020-11-0x02.md
+      2020-11-0x03: weekly/weekly-2020-11-0x03.md
+      2020-11-0x04: weekly/weekly-2020-11-0x04.md
+      2020-12-0x01: weekly/weekly-2020-12-0x01.md
+      2020-12-0x02: weekly/weekly-2020-12-0x02.md
+      2020-12-0x03: weekly/weekly-2020-12-0x03.md
+      2021-01-0x01: weekly/weekly-2021-01-0x01.md
+      2021-01-0x02: weekly/weekly-2021-01-0x02.md
+      2021-02-0x01: weekly/weekly-2021-02-0x01.md
+      2021-02-0x02: weekly/weekly-2021-02-0x02.md
+      2021-02-0x03: weekly/weekly-2021-02-0x03.md
+      2021-02-0x04: weekly/weekly-2021-02-0x04.md
+      2021-03-0x01: weekly/weekly-2021-03-0x01.md
+      2021-03-0x02: weekly/weekly-2021-03-0x02.md
+      2021-04-0x01: weekly/weekly-2021-04-0x01.md
+      2021-04-0x02: weekly/weekly-2021-04-0x02.md
+      2021-06-0x01: weekly/weekly-2021-06-0x01.md
+      2021-06-0x02: weekly/weekly-2021-06-0x02.md
+      2021-07-0x01: weekly/weekly-2021-07-0x01.md
+      2021-07-0x02: weekly/weekly-2021-07-0x02.md
+      2021-08-0x01: weekly/weekly-2021-08-0x01.md
+      2021-10-0x01: weekly/weekly-2021-10-0x01.md
 
 extra_css:
   - '/css/termynal.css'

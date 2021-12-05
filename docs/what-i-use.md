@@ -26,6 +26,8 @@
 - bat: https://github.com/sharkdp/bat
 - misspell->typo: https://github.com/client9/misspell
 - k: https://github.com/supercrabtree/k
+- tokei: https://github.com/XAMPPRocky/tokei 
+- p10k: https://github.com/romkatv/powerlevel10k
 
 ## Terminal
 

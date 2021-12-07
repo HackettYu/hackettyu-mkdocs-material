@@ -103,14 +103,14 @@ Language: ABAP\Python\JavasScript
 > profile counter: ![profile counter](https://komarev.com/ghpvc/?username=hackettyu&color=grey)
 
 
-[^1]: <https://hackettyu.com/docs/books/ISBN-9787115249494/>
-[^2]: <https://hackettyu.com/docs/books/ISBN-9787115564672/>
-[^3]: <https://hackettyu.com/docs/books/ISBN-9787121297267/>
-[^4]: <https://hackettyu.com/docs/books/ISBN-9787508648286/>
-[^5]: <https://hackettyu.com/docs/books/ISBN-9787521705041/>
-[^6]: <https://hackettyu.com/docs/books/ISBN-9787532756728/>
-[^7]: <https://hackettyu.com/docs/books/ISBN-9787532762897/>
-[^8]: <https://hackettyu.com/docs/books/ISBN-9787553678054/>
-[^9]: <https://hackettyu.com/docs/books/ISBN-9787559627636/>
-[^10]: <https://hackettyu.com/docs/books/ISBN-9787559632265/>
-[^11]: <https://hackettyu.com/docs/books/ISBN-9787201104560/>
+[^1]: <https://hackettyu.com/books/ISBN-9787115249494/>
+[^2]: <https://hackettyu.com/books/ISBN-9787115564672/>
+[^3]: <https://hackettyu.com/books/ISBN-9787121297267/>
+[^4]: <https://hackettyu.com/books/ISBN-9787508648286/>
+[^5]: <https://hackettyu.com/books/ISBN-9787521705041/>
+[^6]: <https://hackettyu.com/books/ISBN-9787532756728/>
+[^7]: <https://hackettyu.com/books/ISBN-9787532762897/>
+[^8]: <https://hackettyu.com/books/ISBN-9787553678054/>
+[^9]: <https://hackettyu.com/books/ISBN-9787559627636/>
+[^10]: <https://hackettyu.com/books/ISBN-9787559632265/>
+[^11]: <https://hackettyu.com/books/ISBN-9787201104560/>

@@ -171,6 +171,8 @@ nav:
      ISBN-9787532756728: books/ISBN-9787532756728.md
      ISBN-9787532762897: books/ISBN-9787532762897.md
      ISBN-9787201104560: books/ISBN-9787201104560.md
+     ISBN-9787518068715: books/ISBN-9787518068715.md
+
   - docs:
     - others:
         archives-ABAP-guide-zh: docs/archives/ABAP-guide-zh.md

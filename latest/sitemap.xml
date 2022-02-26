@@ -2,392 +2,432 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hackettyu.com/latest/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-09-13-ubuntu-board/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-09-27-code-cloc/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-10-01-chromium-google-api/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-10-04-command-close-nvida/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-10-04-powershell-upper/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-10-06-linux-ln/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-10-18-java-swap-function/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-10-25-firewall-cmd/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-10-25-hexo-dns/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-11-13-ssh-login/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-12-02-windows-git-bash/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2018-12-15-switch-eclipse-version/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2019-01-02-javascript-use/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2019-02-16-javascript-error-msg/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2019-04-13-spring-framework-version/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2019-04-14-tomcat-deploy-web/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2019-09-16-chrome-extention/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2019-10-30-hexo-ogp/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2019-11-04-hexo-kindle/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2020-03-20-vscode-diff/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2020-05-07-windows-scoop/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2020-06-17-mkdocs-material-turtorial/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2020-08-20-ABAP-code-indent/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2020-09-09-lightproxy-unofficial-document/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2020-09-14-awosome-command-line-slide/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2020-11-02-python-enum/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2020-11-04-sap-mdg-api-example/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-01-25-abap-rest-interface/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-02-01-zeep-turtorial/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-02-02-abap-rest-use-library/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-02-03-mkdocs-add-termy/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-02-08-bullet-journal-tuturial/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-03-31-SAP-JCo-example/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-06-08-ABAP-WTF/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-06-21-github-pr-workflow/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-06-25-abap-dont-need-many-loops/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/2021-08-30-markdown-TIL/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/cheatsheet/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/what-i-use/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787115249494/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787115564672/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787121297267/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787201104560/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hackettyu.com/latest/books/ISBN-9787208107410/</loc>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hackettyu.com/latest/books/ISBN-9787213056550/</loc>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787508648286/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hackettyu.com/latest/books/ISBN-9787511334152/</loc>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787518068715/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787521705041/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hackettyu.com/latest/books/ISBN-9787521731583/</loc>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787532756728/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hackettyu.com/latest/books/ISBN-9787532761838/</loc>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787532762897/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hackettyu.com/latest/books/ISBN-9787544784399/</loc>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hackettyu.com/latest/books/ISBN-9787549506927/</loc>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hackettyu.com/latest/books/ISBN-9787549585489/</loc>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787553678054/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787559627636/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/books/ISBN-9787559632265/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2020-10-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2020-10-0x02/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2020-11-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2020-11-0x02/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2020-11-0x03/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2020-11-0x04/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2020-12-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2020-12-0x02/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2020-12-0x03/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-01-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-01-0x02/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-02-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-02-0x02/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-02-0x03/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-02-0x04/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-03-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-03-0x02/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-04-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-04-0x02/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-06-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-06-0x02/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-07-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-07-0x02/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-08-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-10-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hackettyu.com/latest/weekly/weekly-2021-12-0x01/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -96,6 +96,9 @@ Language: ABAP\Python\JavasScript
 - [ ] 加缪笔记：1935-1959
 - [X] 不可能的艺术：巅峰表现的入门指南
 - [X] 链接：商业、科学与生活的新思维
+- [X] 赖声川的创意学
+- [X] 西西弗神话
+- [X] 性学三论
 
 ### Masonry
 
@@ -119,3 +122,7 @@ Language: ABAP\Python\JavasScript
 [^9]: <https://hackettyu.com/books/ISBN-9787559627636/>
 [^10]: <https://hackettyu.com/books/ISBN-9787559632265/>
 [^11]: <https://hackettyu.com/books/ISBN-9787201104560/>
+
+![](https://hy-picgo.oss-cn-shenzhen.aliyuncs.com/2022/02/04/371615235f3034ac8576bbada0ef64d5.jpg)
+![](https://hy-picgo.oss-cn-shenzhen.aliyuncs.com/2022/02/04/9470be17cf29e1f278e9fb7ee5ed7d33.jpg)
+

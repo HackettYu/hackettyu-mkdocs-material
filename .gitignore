@@ -3,6 +3,7 @@ writing/
 draft/
 backup/
 site/
+logseq/
 
 .pytest_cache/
 *.DS_Store

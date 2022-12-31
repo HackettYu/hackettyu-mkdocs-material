@@ -70,7 +70,7 @@ extra:
     - icon: fontawesome/brands/spotify
       link: spotify:user:12glou9s4691jdz6arkbb8zmn
     - icon: fontawesome/solid/rss
-      link: https://hackettyu.com/todo
+      link: https://hackettyu.zhubai.love
   # https://github.com/squidfunk/mkdocs-material/pull/2363
   analytics:
     provider: google
@@ -159,6 +159,8 @@ nav:
       "0x08-Github PR workflow": 2021-06-21-github-pr-workflow.md
       "0x09-关于 ABAP 或许不需要那么多的循环": 2021-06-25-abap-dont-need-many-loops.md
       "0x10-Markdown TIL": 2021-08-30-markdown-TIL.md
+  - 2022:
+      "0x01-2022第一篇博客": 2022-12-31-2022.md
   - books:
      ISBN-9787115249494: books/ISBN-9787115249494.md
      ISBN-9787553678054: books/ISBN-9787553678054.md  

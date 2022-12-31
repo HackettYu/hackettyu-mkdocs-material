@@ -39,67 +39,6 @@ Language: ABAP\Python\JavasScript
 
 [https://github.com/HackettYu/mkdocs-material/find/master](https://github.com/HackettYu/mkdocs-material/find/master)
 
-### Media
-
-* [X] 捕蛇者说
-* [X] 枫言枫语
-* [X] Teahour
-* [X] weak self
-* [X] 疯投圈
-* [X] FLOWCoffee
-
-### Book
-
-**2020 done**
-
-- [x] 香港第一课                   
-- [x] *编程珠玑-续
-- [x] *Effective Java 中文版第二版 
-- [x] *数据密集型应用系统设计  
-- [x] 奈飞文化手册[^8]              
-- [x] 只是为了好玩                 
-- [x] 原子习惯[^10]               
-- [X] 子弹笔记[^9]                
-- [X] 大教堂与集市                 
-- [X] 黑客与画家[^1]
-- [X] 手工咖啡[^5]
-
-**2021**
-                
-- [X] *SRE: Google 运维解密[^3]     
-- [X] 软件设计的哲学
-- [X] 混乱的猴子
-- [X] 解密 Insgram
-- [X] 岩田先生
-- [X] 卡片笔记写作法[^2]
-- [X] 小径分岔的花园[^7]
-- [X] 江城[^6]
-- [X] 娱乐至死[^4]
-- [X] 局外人[^11]
-- [X] 俞军产品方法论
-- [X] 施瓦辛格健身全书
-- [X] 另一个，同一个
-- [X] 阿莱夫
-- [X] 关键路径
-- [X] 美丽新世界
-- [X] 解读博尔赫斯
-- [X] 人生的智慧
-- [X] 重来3:跳出疯狂的忙碌
-- [X] 理想思考的艺术：如何好好讲道理
-- [X] 伟大的电影
-- [X] 贪婪的多巴胺
-- [X] 天真的和感伤的小说家
-- [X] 反与正、婚礼集、夏天集
-- [X] 东京咖啡时间
-- [X] 奥斯维辛：一部历史
-- [ ] 现代艺术150年：一个未完成的故事
-- [ ] 加缪笔记：1935-1959
-- [X] 不可能的艺术：巅峰表现的入门指南
-- [X] 链接：商业、科学与生活的新思维
-- [X] 赖声川的创意学
-- [X] 西西弗神话
-- [X] 性学三论
-
 ### Masonry
 
 - <https://hackettyu.com/html/spotify-user-albums-cover-art.html>
@@ -109,19 +48,6 @@ Language: ABAP\Python\JavasScript
 ### Profile 
 
 > profile counter: ![profile counter](https://komarev.com/ghpvc/?username=hackettyu&color=grey)
-
-
-[^1]: <https://hackettyu.com/books/ISBN-9787115249494/>
-[^2]: <https://hackettyu.com/books/ISBN-9787115564672/>
-[^3]: <https://hackettyu.com/books/ISBN-9787121297267/>
-[^4]: <https://hackettyu.com/books/ISBN-9787508648286/>
-[^5]: <https://hackettyu.com/books/ISBN-9787521705041/>
-[^6]: <https://hackettyu.com/books/ISBN-9787532756728/>
-[^7]: <https://hackettyu.com/books/ISBN-9787532762897/>
-[^8]: <https://hackettyu.com/books/ISBN-9787553678054/>
-[^9]: <https://hackettyu.com/books/ISBN-9787559627636/>
-[^10]: <https://hackettyu.com/books/ISBN-9787559632265/>
-[^11]: <https://hackettyu.com/books/ISBN-9787201104560/>
 
 ![](https://hy-picgo.oss-cn-shenzhen.aliyuncs.com/2022/02/04/371615235f3034ac8576bbada0ef64d5.jpg)
 ![](https://hy-picgo.oss-cn-shenzhen.aliyuncs.com/2022/02/04/9470be17cf29e1f278e9fb7ee5ed7d33.jpg)
